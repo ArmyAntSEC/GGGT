@@ -12,7 +12,7 @@ If there is a separate game master, this person should handle the act breaks des
 - Arrange a location. An open kitchen is recommended but not required. You will need a table with exactly three chairs, and at least three other seats close to the table.
 - Prepare six name tags – for example by using index cards and safety pins.
 - Print out the character descriptions and the smaller character notes.
-- Prepare something manual and timeless that the women can work together on. The descriptions below assume that they will prepare something simple to eat, for example a fruit salad.
+- Prepare something manual and timeless that the women can work together on. The descriptions below assume that they will prepare something simple to eat, for example a fruit salad. Do not forget to make sure the ghosts can eat as well.
 - Prepare coffee/tea and biscuits as well. Make sure there is enough for the ghosts as well, including the food above.
 - Ensure that the character playing Mother E has a working cell phone. Unless there is a clearly visible wall-clock in the space you are playing, make sure all characters have watches or some other way to check the time.
 - Those playing ghosts shall preferably be dressed in as much black as possible. Those not playing ghosts shall preferably be dressed in colors other than black.
@@ -28,69 +28,68 @@ Arrange a token item for each of the characters. Some suggestions:
 ## Warm-up
 When everyone is gathered and all preparations are done, it is time for a warm-up to get the creativity going. One suggestion is provided below:
 ### The Coat Hanger
-The point of this game is to warm up the creative part of the brain and get into a spontaneous state of mind. As such, there should be as little after-though and structure as possible while doing it. This is how it goes:
+The point of this game is to warm up the creative part of the brain and get into a spontaneous state of mind. As such, there should be as little after-though and structure as possible to it. This is how it goes:
 Everyone gathers in a ring and one person holds a coat hanger.
-The person holding the coat hanger mimes an activity. The coat hanger may be used as an abstract prop if appropriate, or not at all.
-The others guess what the the person whith the coat hanger is miming. As soon as someone guesses the right answer, the mime will hand over the coat hanger to the person who guessed the right answer,
-The person now holding the coat hanger now mimes another activity and the rest guess.
+The person holding the coat hanger mimes an activity. The coat hanger may be used as an abstract prop if appropriate, but it is not required.
+The others guess what the person with the coat hanger is miming. Whoever first guesses correctly gets the coat hanger. 
+The person now holding the coat hanger mimes another activity and the remaining participants do the guessing.
 The game goes on for about 10 minutes.
-Introductory text
+## Introductory text
 Read the following introductory text aloud:
-Welcome to the larp Grany’s Greatgranny’s Tiara!
-The larp has six charactrs: Six generations of mothers and daughters from the same family. It takes place in the appartment of Mother E. Mother E is an energetic self-employed in the catering business. The company is just barely carrying its costs. Her daughter F also lives here, who has not quite come of age yet. 
-Once upon a time, when the Vicountess A arrived from Germany and married a noveau-rich Swede, the family had large appartments, horses, wagons and servants. At that time, the women of the family had neither the need, nor the oppertunity to work. As the generations have passed, the familys circumstances have become simpler and simpler; from palaces to todays tiny appartment. But the education and availible options for the women have steadily grown. Daughter F will hopefully be the first women in her family to start at the University! 
-All that remains of the once glamorous life that the Vicountess lived is the family hairloom: The Tiara. All else is lost. The Tiara has passed from mother to daughter; the daughters have inherited it on their wedding day and the Tiara has stunned all who layed eyes on it. For some it specifically symbolizes the wedding, the happiest(?) of all days. Others see the Tiara as a menace, a symbol of vanity and greed that keeps the women down. But it also symbolizes the family history and the inherited bond between women, both symbolically and in a very tangible way. All the rest has been lost or has been inherited by the sons. Because Swedish tradition is that only jewelery is reliably inherited down through the line of women. 
-Today Granny D is invited for afternnon tea. And the ghosts of Greatgranny C, Granny’s Granny B and Granny’s Greatgranny the vicountess A herself have felt drawn to this small family this very day. 
-The first three acts take place on day 1. Act 4 takes place in the dreams of the living characters later that night. Act 5 takes place during the following day, when Granny D comes back.
-Character handouts
-Shuffle out the characters, or put some thought into it. If you have any experienced larpers, it can perhaps make sense to give them the ghost characters. Give everyone 10 minutes to read their character descriptions, at least twice.
-How ghost characters work
+_Welcome to the larp Granny's Great-granny's Tiara!_
+_The larp has six characters: Six generations of mothers and daughters from the same family. It takes place in the apartment of the energetic Mother E. Mother E is self-employed in the catering business, but her company is just barely carrying its costs. Her daughter F also lives here, who has not quite come of age yet._
+_Once upon a time, when the Viscountess A arrived from Germany and married a noveau-rich Swede, the family had large apartments, horses, wagons and servants. At that time, the women of the family had neither the need nor the opportunity to work. As the generations have passed, the family's circumstances have become simpler and simpler; from the palaces of bygone days to the tiny apartment of today. But the education and options available to the women have steadily grown. Daughter F will hopefully be the first women in her family to start at the University!_
+_All that remains of the once glamorous life of the Viscountess is the family heirloom: The Tiara. The Tiara has passed from mother to daughter. The daughters have inherited it on their wedding day and the Tiara has stunned all who layd eyes on it. For some it is a symbol of the wedding, the happiest(?) of all days. Others see the Tiara as a menace, a symbol of vanity and greed that keeps the women down. But it also symbolizes the family history and the inherited bond between women, both symbolically and in a very tangible way. All the rest has been lost or has been inherited by the sons. Because Swedish tradition is that only jewelry has been reliably inherited down through the line of women._
+_Today Granny D is invited for afternoon tea. And the ghosts of Great-granny C, Granny’s Granny B and Granny’s Great-granny Viscountess A herself have felt drawn to this small family this very day._
+_The first three acts take place on day 1. Act 4 takes place in the dreams of the living characters later that night. Act 5 takes place during the following day, when Granny D comes back._
+## Character handouts
+Shuffle the characters and distribute them randomly, or put some thought into it. If you have any experienced larpers, it can perhaps make sense to give them the ghost characters. Give everyone 10 minutes to read their character descriptions, at least twice.
+## How ghost characters work
 Read the following:
-Before the dream sequences, the ghosts are, frustratingly enough, limited in their interaction with the living. They can whisper and try to influence, but it does not allways work and it may also be misinterprated. In general, they can also perform physical acts if these represent something non-physical. Examples: Put preassure on someones shoulders. Support someone. Beat a rythm on someones chest to increase or decreas their heartrate.
-The ghosts can also itneract and speak freely with each other. They have complex relationships between themselves and very much enjoy commenting how both the living and the dead react to situations.  
-In this larp silence is important. Very important. The living characters must include silence as a natural part of their way of interacting with each other. Otherwise the ghosts will have a hard time getting heard. Before you say something, feel free to take a long and deep breath.
-Optional preparation
-Play the following test scene to get a feeling for how ghosts can work on a larp. Let two of the living characters play maffia leaders who have challenged each other to Russian roulette. 
+_Before the dream sequences, the ghosts are, frustratingly enough, limited in their interactions with the living. They can whisper and try to influence, but this does not always work and it may also be misinterpreted. In general, they can perform physical acts if these represent something non-physical. Some examples: Put pressure on someones shoulders. Support someone. Beat a rhythm on someones chest to increase or decrease their heart-rate._
+_The ghosts can also interact and speak freely with each other. They have complex relationships between themselves and very much enjoy commenting how both the living and the dead react to situations._ 
+_In this larp silence is important. Very important. The living characters must include silence as a natural part of their way of interacting with each other. Otherwise the ghosts will have a hard time getting heard. Before you say something, feel free to take a long and deep breath._
+## Optional preparation
+Play the following test scene to get a feeling for how ghosts can work on a larp. Let two of the living characters play mafia leaders who have challenged each other to Russian roulette. 
 They each sit quietly in a chair, facing each other. They have a gun (Any item can substitute) containing one real shot and many empties. Each time they raise the gun to their head they can die. They send the gun back and forth and pull the trigger each time. 
-The game ends when one of the characters decides that this time their luck ran out and they got a real bullet which kills them.
-Each maffioso has two ghosts standing behind their back. They will try to influence the maffioso with whispers and light touches. One of the two is vengeful and hopes the maffioso dies. The other is loving and caring. 
+The game ends when one of the characters decides that this time their luck ran out and the gun fires and kills them.
+Each mafioso has two ghosts standing behind their back. These will try to influence the mafioso with whispers and light touches. One of the two is vengeful and hopes the mafioso dies. The other is loving and caring. 
 As ghosts, experiment with how you can both raise the intensity of the situation or calm things down. After the scene, discuss what worked and what was difficult.
-Dream scenes
+## Dream scenes
 Read the following:
-Being a ghost is hard. But in the dream world, the gosts have their time to shine. As a chost, you can hold dream scenes with living charactes who are asleep. In the dream scene you can address the living directly and they can answer you back. You controll the entire plot of the dream sequence.
-To hold a dream sequence you start by leading the dreamer into the middle of the room and then placing them where you want them. You then describe the environment you are in. You can also describe other characters who are present and may even use the other ghost players as extras. They can either play themselves or or someone else. You controll the dream world completely, so everything you way will be true for the dreamer.
-Your goal with the dream sequecnce will be to make the dreamer understand something that is important to you. It is up to the dreamer to then interpret the dream afterwards as they see fit.
-Reread the characters
-Let rach player reread their character so they remember what it said.
-Speed-dating! 
+_Being a ghost is hard. But in the dream world, the ghosts have their time to shine. As a ghost, you will hold a dream scene with one of the living characters who are asleep. In the dream scene you can address the living directly and they can answer you back. You control the entire plot of the dream sequence._
+_To hold a dream sequence you start by leading the dreamer into the middle of the room and then placing them where you want them. You then describe the environment you are in. You can also describe other characters who are present and may even use the other ghost players as extras. They can either play themselves or or someone else. You controll the dream world completely, so everything you way will be true for the dreamer._
+_Your goal with the dream sequence will be to make the dreamer understand something that is important to you. It is up to the dreamer to then interpret the dream afterwards as they see fit._
+## Reread the characters
+Let each player reread their character so they remember its description.
+## Speed-dating! 
 Pair off all the players. Each pair then gets 60 seconds to have a quick talk. Do not reveal any big secrets at this time. Introduce your character in two sentences and say one sentence on how your character sees the character you are talking to. Both characters do not need to agree on the nature of the relationship. Then switch until everyone has talked to everyone else.
-Summary of the acts
+## Summary of the acts
 The acts are started and ended by specific players. They each have instructions for this in their character descriptions. 
-Review how the Monolog-act works. You can find the instructions for this in Mother E’s character description. 
+Review how the Monologue-act works. You can find the instructions for this in Mother E’s character description. 
 Also review how the dream scenes work. For details, see the character descriptions for the ghost characters.
-Act 1: Working together
-Find the relations. Find your character. The ghosts can whisper, influence and subtly manipulate small items. Takes 20 minutes. Is ended by Mother E.
-Act 2: Monologs 
-What does your character really feel? The ghosts can whisper, influence and subtly manipulate small items. Takes 5-10 minutes. Started and ended by Mother E.
-Act 3: Conflikt 
-Make the conflict lines between characters clear. The ghosts can whisper, influence and subtly manipulate small items. Takes 20 minutes. Started by Mother E and ended by Granny D.
-Act 4: Dreamscen 
-Takes place during the night between day one and day two. The ghosts determine hown the workd looks and works. Takes 10-30 minutes. Started by Greatgranny D and ended by Vicountess A.	
-Act 5: Morning cofee break the day after 
-Granny D is invited back. Mormor D är bjuden tillbaka. The ghosts can whisper, influence and subtly manipulate small items. Takes 20 minutes. Started by Doughter F and ended by Mother E.
-Debriefing 
-Sitt down in pairs with someone you have not interacted so much during the game. Tell each other about your experience of the game. Then sit together in the complete group and allow each person to say something about the game to the entire group.
-Game start!
-Act description
+### Act 1: Working together
+Find your character. Find your relations. Ghosts can whisper, influence, and subtly manipulate small items. They can also eat and drink. Takes 20 minutes and is ended by Mother E.
+### Act 2: Monologues 
+What does your character really feel? Ghosts can whisper, influence and subtly manipulate small items. Takes 5-10 minutes. Started and ended by Mother E.
+### Act 3: Conflict 
+Make all lines of conflict between characters clear to all. The ghosts can whisper, influence and subtly manipulate small items. They can also eat and drink. Takes 20 minutes. Started by Mother E and ended by Granny D.
+### Act 4: Dream scene 
+Takes place during the night between day one and day two. The ghosts determine how the world looks and works. Takes 10-30 minutes. Started by Great-granny D and ended by Viscountess A.	
+## Act 5: Morning coffee break the day after 
+Granny D is invited back. The ghosts can whisper, influence and subtly manipulate small items. They can also eat and drink.  Takes 20 minutes. Started by Daughter F and ended by Mother E.
+## Debriefing 
+Sit down in pairs, if possible with someone you have not interacted so much during the game. Tell each other about your experience of the game. Then sit together in the complete group and allow each person to say something about the game to the entire group.
+# Game start!
+# Act description
 The larp is played as a sequence of shorter acts. Each act has a clear starting point, theme and a clear signal when it ends. Here follow a more extensive description of each act. 
-Act 1: Relationship building
+## Act 1: Relationship building
 Ca 20 minutes: In this act the players shall become comfortable with their characters and their relationships. No significant development of the characters or their relationships shall happen in this act. It is OK to make small changes to how you view your character during this act. The goal is that you at the end of the act have a clear picture of who your character is and your starting relationships. 
-The concrete content of this act is the preparation of the last of the food, setting the table and starting to eat.
 During this act, the ghosts shall calmly get the hang of how they can interact with each other and the living characters in a constructive way.
-During this act, the characters will prepare the last of the food. Towards the end of the act all will take their seats around the table and start eating. Once everyone has started eating, Mother E will reveal that she intends to sell the Tiara. As soon as she has said this, and before anyone else can say anything, the act will end. Transition immediately to:
-Act 2: Monologes
-5-10 minuter: Denna miniakt följer direkt på att Mamma berättat att hon tänker sälja tiaran. En i taget, i valfri ordning, håller spelarna varssin inre monolog om hur de känner just i det ögonblicket om beslutet.  När alla hållit en monolog så tas en mycket kort off-paus i tysthet när alla får sätta sig ner igen ifall de rest sig. Sedan börjar:
-Akt 3: Konflikt 
+During this act, the characters will prepare the last of the food. Towards the end of the act all will take their seats around the table (Ghosts on the seats close to the table) and start eating. Once everyone has started eating, Mother E will reveal that she intends to sell the Tiara. As soon as she has said this, and before anyone else can say anything, the act will end. Transition immediately to:
+## Act 2: Monologues
+5-10 minuter: This mini-act starts directlyafter Mother E has infomred the others that she plans to serr the Tiara. One at the time, ina ny order, the players let their characters have an internal monologue about how they feel at this exact moment about the decision. Once everyone is done, there is a short pause in silence where those who may have gotten up are given time to sit down. Then begins:
+## Act 3: Conflict 
 Ca 20 min: I denna akt driver varje karaktär sin linje och lyssnar in andras åsikter. Det är OK att under denna akt nyansera sin karaktärs bild i frågan, men frågan skall inte lösas under denna akt.
 Rent konkret består denna akt i att äta huvudrätten. Efter att första reaktionerna är klara kan vem som helst som inte är död hämta huvudrätten i köket.
 Akten börjar med ett hopp tillbaka där Mamma åter igen berättar att hon tänker sälja Tiaran. Efter det är det fritt spel. Ingen får dock lämna matbordet innan alla, spökena inklusive, har fått säga en sak.
