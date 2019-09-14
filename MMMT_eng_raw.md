@@ -139,23 +139,25 @@ You will not tell anyone about your grief connected to the house fire, and what 
 Player instructions
 You start act 4 (Dream Sequence) when Granny D, with her fist raised above her head, tells you to do this. You will have the first dream sequence together with Mother E. It may take between 2 and 10 minutes. Bring her to the middle of the room. Explain how/where she “wakes up” in the dream. This is your chance to explain your perspective on the Tiara and its legacy. Tell your story.
 You control the game world completely and everything you say becomes reality. Borrow other players as extras if you wish, but you will not have time to give them particularly detailed instructions. 
-End the scene by saying “I now leave your dream. Come with me” and take Mother by the hand to the edge of the room. Voluntary Accessory.
-En fin brosch
-Mormors Mormor B
-Du föddes i en fin våning i centrala Stockholm år 1860. Du växte upp med barnskötare, guvernanter och flickskolor. Det du saknade under din uppväxt var dock en närvarande mamma. Du tyckte att hur mycket du än försökte komma riktigt nära henne så gick det aldrig. 
-Din främsta bild av din mamma, Vicomtessan A, är när hon sitter vid sitt sminkbord och gör sig redo för att ge sig ut på nästa fest. Brevid henne låg alltid den stora Tiaran, den sista kvarlevan av hennes uppväxt i den tyska adeln. Den har därför för dig alltid representerat allt som var fel med din uppväxt.
-Som vuxen hittade du en bra karl, Postmästaren i Gnesta, och flyttade så långt från stan som du kunde. Där uppfostrade du din dotter, med bullbak och pyssel. Hon är dock en envis och bestämd kvinna, din dotter, och det blev tidigt klart att hon idoliseradeVicomtessan A och livet i sus och dus i staden. Hon lämnade dig ensam på landet och flyttade in till stan. Din älskade dotterdotter D var hos dig de flesta somrar, och när din dotter inte ville hjälpa till finansiellt så finansierade du Ds yrkesutbildning till lärarinna.
-Du tror inte att det kan ha undgått din mor hur missnöjd du kände dig med henne, men hon har trots det aldrig bett om ursäkt: hon har alltid varit självupptagen. 
-Men trots allt detta så har du innerst inne en beundran av din mor, av en anldning som du aldrig berättat för någon, varken levande eller död.
-Vad gäller Tiaran tycker du gott den kan säljas och pengarna kan gå till något nyttigt istället. Det är en dålig symbol för dekandens. Du fick den när du gifte dig, men lät den sedan ligga kvar i bankvalvet och rörde den aldrig. Idag ångrar du att du inte sålde den när du hade chansen, utan följde familjetraditionen och lämnade den vidare till din dotter på hennes bröllop.
-Du kommer spela passivt aggressiv och inte tala i klarspråk om hur dålig din relation med din mor var och hur illa du tyckte om henne förrän din drömscen med din dotterdotter D under akt 3 när du berättar i detalj vilken sorts person Gammelmor egentligen var!
-Off-instruktioner 
-I akt 4 (drömscen) kommer du ha den andra drömscenen, tillsammans med din dotterdotter, Mormor D. Den får ta allt mellan 2 och 10 minuter. Ta upp henne  på scenen, berätta hur/var hon ”vaknar” i drömmen. Det är din chans att förklara för henne hur du ser på tiaran, plikten och arvet. Berätta din historia. 
-Du kontrollerar spelvärlden så allt du säger händer. Låna andra spelare som statister om du vill, men du kommer inte ha tid att ge dem särskilt mycket instruktioner. Avsluta scenen genom att säga ”nu lämnar jag din dröm, kom med mig” och ta din dotterdotter av scenen.
-Frivillig accessoar
-Ett köksredskap
-Vicomtessan A
-Du föddes i en fattig Småländsk bondesläkt år 1833. Du har alltid haft en aptit för livet, framför allt dess goda. När din bror fick möjlighet att resa ner till Lübeck för att arbeta på varv så tog du chansen att följa med och komma ut i stora världen.
+End the scene by saying “I now leave your dream. Come with me” and take Mother by the hand to the edge of the room. 
+Voluntary Accessory.
+A fine broach
+Granny’s Granny B
+You were born in a grand apartment in central Stockholm in 1860. You grew up surrounded by nannies, governesses and girl schools. What you lacked in your childhood, was a mother who was present.  You thought that no matter how hard you tried to get close to her, you never succeeded. Your clearest memory of her, the Viscountess A, was from when se was sitting at her dressing table getting ready to go out to yet another party. Next to her was always the great Tiara, the last remnant of her upbringing in the German nobility. As such, it always represented everything wrong with your childhood.
+As an adult you found a good man, the postmaster of Gnesta, and you moved as far from the city as you could. There you raised your daughter with baking and crafts and all the love you never got. But she was a stubborn one and it was clear from an early age that she idolized her grandmother, the Viscountess and the fast life in the city. As soon as she was grown, she married a city man and moved back to that life.
+Your beloved granddaughter, D, was with you most summers and when your daughter was not prepared to help out financially, you pitched in and gave D the money for tuition for teachers collage. 
+You do not think your mother could have missed how disappointed you were with her, but even so she has never apologized; she was always too self-centered. But even so, you feel a respect for her deep down, for a reason you have never told anyone, living or dead. 
+Regarding the Tiara, you think it might as well be sold off and the money used for something useful. It is a bad symbol of decadence. You inherited it when you got married, but then let it rest in the bank vault and never touched it. Today, you regret not selling it yourself when you had the chance but followed the family tradition and handed it to your daughter on her wedding day.
+You will play passively aggressive and not speak plainly about how you feel about your mother until you have a dream sequence with your granddaughter D in Act 4. There you will tell her in detail what sort of person Great-Grannys granny the Viscountess A really is!
+Player instructions
+In act 4 (The Dream Sequence) you will have the second dream sequence together with your grand-daughter, Granny D. It may take anywhere between 2 and 10 minutes. Bring her to the center of the room. Explain how/where she “wakes up” in the dream. This is your chance to explain your perspective on the Tiara and its legacy. Tell your story.
+You control the game world completely and everything you say becomes reality. Borrow other players as extras if you wish, but you will not have time to give them particularly detailed instructions. 
+End the scene by saying “I now leave your dream. Come with me” and take Mother by the hand to the edge of the room. 
+Voluntary accessory
+A kitchen implement.
+Great-granny’s Granny, Viscountess A
+You were born into a poor farmer’s family in Småland in 1833. You always had an appetite for the good things in life. When your brother got the opportunity to go down to the shipyard in Lübeck in Germany and work there, you followed him to get a chance to see the world.
+Once in Lübeck, you managed to get a job in the kitchen of a lesser noble family, which was not quite the glamour you were looking for. With some charm and one or two less than noble acts, you 
 Nere i Lübeck så fick du anställning i köket hos en lågadelsfamilj, vilket inte riktigt var så glamouröst som du ville ha det. Du lyckades med charm och ett och annat fulspel bli kammarjungfru vilket passade dig något bättre.
 På grund av legala trångmål behövde dock familjen du var anställd hos flytta till Amerika. Du stannade kvar ett tag för att packa ihop det sista, vilket du gjorde. Men istället för att följa med stoppade du en ansenlig summa pengar, några smycken, och en fantastisk Tiara i egen ficka och försvann. 
 Hem till Sverige och i Stockholm presenterade du dig under ett nytt adelsklingande tyskt namn. Med de pengar du hade, och tiaran framför allt, så blev du accepterad i societeten. Alla i Stockholm, inklusive dina barn och barnbarn tror att du är Vicomtessa från Holstein-Kiel vars hela familj dödades av pöbeln under revolutionen 1848. Det sägs att du flydde själv genom många äventyr i både Paris och Milano innan du till slut kom till Stockholm där du slog dig ner.
