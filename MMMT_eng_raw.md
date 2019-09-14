@@ -57,35 +57,54 @@ Read the following introductory text aloud:
 _Welcome to the larp Granny’s Great-granny’s Tiara!_
 
 _The larp has six characters: Six generations of mothers and daughters from the same family. It takes place in the flat of Mother E. Mother E is an energetic self-employed in the catering business. The company is just barely carrying its costs. Her daughter F also lives here, who has not quite come of age yet._
-Once upon a time, when the Viscountess A arrived from Germany and married a nouveau-rich Swede, the family had large apartments, horses, wagons and servants. At that time, the women of the family had neither the need, nor the opportunity to work. As the generations have passed, the family’s circumstances have become simpler and simpler; from palaces to todays tiny flat. But the education and available options for the women have steadily grown. Daughter F will hopefully be the first women in her family to start at the University! 
-All that remains of the once glamorous life that the Viscountess lived is the family heirloom: The Tiara. All else is lost. The Tiara has passed from mother to daughter; the daughters have inherited it on their wedding day and the Tiara has stunned all who laid eyes on it. For some it specifically symbolises the wedding, the happiest(?) of all days. Others see the Tiara as a menace, a symbol of vanity and greed that keeps the women down. But it also symbolises the family history and the inherited bond between women, both symbolically and in a very tangible way. All the rest has been lost or has been inherited by the sons. Because Swedish tradition is that only jewellery is reliably inherited down through the line of women. 
-Today Granny D is invited for afternoon tea. And the ghosts of Great-granny C, Granny’s Granny B, and Granny’s Great-granny the viscountess A herself have felt drawn to this small family this very day. 
-The first three acts take place on day 1. Act 4 takes place in the dreams of the living characters later that night. Act 5 takes place during the following day, when Granny D comes back.
-Character handouts
+
+_Once upon a time, when the Viscountess A arrived from Germany and married a nouveau-rich Swede, the family had large apartments, horses, wagons and servants. At that time, the women of the family had neither the need, nor the opportunity to work. As the generations have passed, the family’s circumstances have become simpler and simpler; from palaces to todays tiny flat. But the education and available options for the women have steadily grown. Daughter F will hopefully be the first women in her family to start at the University!_
+
+_All that remains of the once glamorous life that the Viscountess lived is the family heirloom: The Tiara. All else is lost. The Tiara has passed from mother to daughter; the daughters have inherited it on their wedding day and the Tiara has stunned all who laid eyes on it. For some it specifically symbolises the wedding, the happiest(?) of all days. Others see the Tiara as a menace, a symbol of vanity and greed that keeps the women down. But it also symbolises the family history and the inherited bond between women, both symbolically and in a very tangible way. All the rest has been lost or has been inherited by the sons. Because Swedish tradition is that only jewellery is reliably inherited down through the line of women._
+
+_Today Granny D is invited for afternoon tea. And the ghosts of Great-granny C, Granny’s Granny B, and Granny’s Great-granny the viscountess A herself have felt drawn to this small family this very day._
+
+_The first three acts take place on day 1. Act 4 takes place in the dreams of the living characters later that night. Act 5 takes place during the following day, when Granny D comes back._
+
+## Character handouts
 Shuffle out the characters, or put some thought into it. If you have any experienced larpers, it can perhaps make sense to give them the ghost characters. Give everyone 10 minutes to read their character descriptions, at least twice.
-How ghost characters work
+
+## How ghost characters work
 Read the following:
-Before the dream sequences, the ghosts are, frustratingly enough, limited in their interaction with the living. They can whisper and try to influence, but it does not always work and it may also be misinterpreted. In general, they can also perform physical acts if these represent something non-physical. Examples: Put pressure on someones shoulders. Support someone. Beat a rhythm on someones chest to increase or decrease their heart-rate.
-The ghosts can also interact and speak freely with each other. They have complex relationships between themselves and very much enjoy commenting how both the living and the dead react to situations.  
-In this larp silence is important. Very important. The living characters must include silence as a natural part of their way of interacting with each other. Otherwise the ghosts will have a hard time getting heard. Before you say something, feel free to take a long and deep breath.
-Optional preparation
+
+_Before the dream sequences, the ghosts are, frustratingly enough, limited in their interaction with the living. They can whisper and try to influence, but it does not always work and it may also be misinterpreted. In general, they can also perform physical acts if these represent something non-physical. Examples: Put pressure on someones shoulders. Support someone. Beat a rhythm on someones chest to increase or decrease their heart-rate._
+_The ghosts can also interact and speak freely with each other. They have complex relationships between themselves and very much enjoy commenting how both the living and the dead react to situations._
+_In this larp silence is important. Very important. The living characters must include silence as a natural part of their way of interacting with each other. Otherwise the ghosts will have a hard time getting heard. Before you say something, feel free to take a long and deep breath._
+
+## Optional preparation
 Play the following test scene to get a feeling for how ghosts can work on a larp. Let two of the living characters play maffia leaders who have challenged each other to Russian roulette. 
+
 They each sit quietly in a chair, facing each other. They have a gun (Any item can substitute) containing one real shot and many empties. Each time they raise the gun to their head they can die. They send the gun back and forth and pull the trigger each time. 
+
 The game ends when one of the characters decides that this time their luck ran out and they got a real bullet which kills them.
+
 Each mafioso has two ghosts standing behind their back. They will try to influence the mafioso with whispers and light touches. One of the two is vengeful and hopes the mafioso dies. The other is loving and caring. 
+
 As ghosts, experiment with how you can both raise the intensity of the situation or calm things down. After the scene, discuss what worked and what was difficult.
-Dream sequence
+
+## Dream sequence
 Read the following:
-Being a ghost is hard. But in the dream world, the ghosts have their time to shine. As a ghost, you can hold dream sequences with a living character who is asleep. In the dream sequence you can address the living directly and they can answer you back. You control the entire plot of the dream sequence.
-To hold a dream sequence you start by leading the dreamer into the middle of the room and then placing them where you want them. You then describe the environment you are in. You can also describe other characters who are present and may even use the other ghost players as extras. They can either play themselves or or someone else. You control the dream world completely, so everything you way will be true for the dreamer.
-Your goal with the dream sequence will be to make the dreamer understand something that is important to you. It is up to the dreamer to then interpret the dream afterwards as they see fit.
-Reread the characters
+_Being a ghost is hard. But in the dream world, the ghosts have their time to shine. As a ghost, you can hold dream sequences with a living character who is asleep. In the dream sequence you can address the living directly and they can answer you back. You control the entire plot of the dream sequence._
+
+_To hold a dream sequence you start by leading the dreamer into the middle of the room and then placing them where you want them. You then describe the environment you are in. You can also describe other characters who are present and may even use the other ghost players as extras. They can either play themselves or or someone else. You control the dream world completely, so everything you way will be true for the dreamer._
+
+_Your goal with the dream sequence will be to make the dreamer understand something that is important to you. It is up to the dreamer to then interpret the dream afterwards as they see fit._
+
+## Reread the characters
 Let each player reread their character so they remember what it said.
-Speed-dating! 
+
+## Speed-dating! 
 Pair off all the players. Each pair then gets 60 seconds to have a quick talk. Do not reveal any big secrets at this time. Introduce your character in two sentences and say one sentence on how your character sees the character you are talking to. Both characters do not need to agree on the nature of the relationship. Then switch until everyone has talked to everyone else.
-Summary of the acts
+
+## Summarize of the acts
 Read through the act descriptions in the chapter below.
-Game start!
+
+# Game start!
 Act description
 The larp is played as a sequence of shorter acts. Each act has a clear starting point, theme and a clear signal when it ends. Here follow a more extensive description of each act. 
 Act 1: Relationship building
