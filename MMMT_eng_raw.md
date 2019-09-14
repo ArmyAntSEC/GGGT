@@ -1,10 +1,14 @@
 # Preparation
 
-Granny’s Great-granny’s Tiara is a low-key larp about Swedish femininity, traditionally female concerns and the relationships between mothers and daughters. It takes place in-between six generations of women of the same family, three living and three ghosts. The larp takes place in Stockholm of 2012.
+Granny’s Great-granny’s Tiara is a low-key nordic larp[^1] about Swedish[^2] femininity, traditionally female concerns and the relationships between mothers and daughters. It takes place in-between six generations of women of the same family, three living and three ghosts. The larp takes place in Stockholm of 2012.
 
 This larp uses the “ghost” meta technique in a very literal form. Unlike many other larps these ghosts have both personality and their own agendas and will try to use whatever influence they may have on their descendents.
 
 A single production of the larp takes about 3.5 hours, including preparation and post-larp reflections.
+
+[^1]: "What sets the Nordic larp traditions apart from others is a strong emphasis on collaboration and collective creation, unobtrusive rules, as well as a rich variety of play styles and settings sometimes including heavy themes." https://nordiclarp.org/wiki/Nordic_larp
+
+[^2]: None of the players familiar with Swedish culture? Not a problem. Just approximate with generalized western culture and go with it. Any specifics that matter to the game will be spelled out in the footnotes of this document.
 
 ## Players needed
 
