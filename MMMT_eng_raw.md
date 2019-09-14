@@ -32,7 +32,7 @@ Do not hesitate to call CUT if something happens that requires the game to stop 
 
 ### Brems
 
-Brems is Norweigian for "break" and is used as a code word to tell another player to dial things back a bit. Nordic larps, including this one, deal with intense emotions and things can get heated. Trust that your fellow players will tell you if you go to far, and also trust that they will back down if you use the "Brems" word. There is no shame in using it. 
+Brems is Norweigian for "break" and is used as a code word to tell another player to dial things back a bit. Nordic larps, including this one, deal with intense emotions and things can get heated. There is no shame in using the "Brems" word. Trust that your fellow players will tell you if you go to far, and also trust that they will back down if tell them to. Make sure they can also trust you to do the same.
 
 ## Swedish cultural and geographical context
 
@@ -42,13 +42,15 @@ For players unfamiliar with some of the locations or cultural contexts, here is 
 
 Up until the end of the first world war, Sweden was an extremely poor place. In particular, the country life for the majority consisted of small family farms on rented land, hard labour, and starvation. 
 
+Unlike the poor pre-world-war times, the Sweden of today has a significant public safety net meaning all people are guaranteed free university eduction, free healthcare, and a basic retirement plan.
+
 ### Vasastan
 
 Vasastan is a part of northern downdown Stockholm. It has been a decidedly middle-class area for a long time.
 
 ### Söder
 
-Söder is the southern half of downtown Stockholm. It has been the poorer half of Stockholm up until a few decades ago.
+Söder is the southern half of downtown Stockholm. It has been the poorer half of Stockholm up until a few decades ago. Due to rental control, those who have lived there for a long time can affort a reasonable appartment on a modest income.
 
 ### Gnesta
 
@@ -139,7 +141,7 @@ Shuffle out the characters, or put some thought into it. If you have any experie
 
 Read the following:
 
-_Except for inside the dream sequences, the ghosts are, frustratingly enough, limited in their interaction with the living. They can whisper and try to influence, but it does not always work and it may also be misinterpreted. In general, they can also perform physical acts if these represent something non-physical. Examples: Put pressure on someones shoulders. Support someone. Beat a rhythm on someones chest to increase or decrease their heart-rate. The exception is eating and drinking which the ghosts can do freely at any time._
+_Except for inside the dream sequences, the ghosts are, frustratingly enough, limited in their interaction with the living. They can whisper and try to influence, or even occasinally scream out loud, but the living do not always hear and often misinterprete. In general, they can also perform physical acts if these represent something non-physical. Examples: Put pressure on someones shoulders. Support someone. Beat a rhythm on someones chest to increase or decrease their heart-rate. The exception is eating and drinking which the ghosts can do freely at any time._
 
 _The ghosts can also interact and speak freely with each other. They have complex relationships between themselves and very much enjoy commenting how both the living and the dead react to situations._
 
@@ -148,15 +150,15 @@ _In this larp silence is important. Very important. The living characters must i
 ## Optional preparation
 Play the following test scene to get a feeling for how ghosts can work on a larp. Let two of the living characters play maffia leaders who have challenged each other to Russian roulette [^6]. 
 
-They each sit quietly in a chair, facing each other. They have a gun (Any item can substitute) containing one real shot and many empties. Each time they raise the gun to their head they can die. They send the gun back and forth and pull the trigger each time. 
+They each sit quietly in a chair, facing each other with a single gun between them (Any item can substitute). They send the gun back and forth and pull the trigger each time. Each time they raise the gun to their head they can die. 
 
-The game ends when one of the characters decides that this time their luck ran out and they got a real bullet which kills them.
+The game ends when one of the characters decides that this time their luck ran out and the gun kills them.
 
 Each mafioso has two ghosts standing behind their back. They will try to influence the mafioso with whispers and light touches. One of the two is vengeful and hopes the mafioso dies. The other is loving and caring. 
 
 As ghosts, experiment with how you can both raise the intensity of the situation or calm things down. After the scene, discuss what worked and what was difficult.
 
-[6]: "Russian roulette is a lethal game of chance in which a player places a single round in a revolver, spins the cylinder, places the muzzle against his or her head, and pulls the trigger." https://en.wikipedia.org/wiki/Russian_roulette
+[6]: "Russian roulette is a lethal game of chance in which a player places a single round in a revolver, spins the cylinder, places the muzzle against their head, and pulls the trigger." https://en.wikipedia.org/wiki/Russian_roulette
 
 ## Dream sequences
 
@@ -187,7 +189,7 @@ The larp is played as a sequence of shorter acts. Each act has a clear starting 
 
 _20 minutes. Find the relations. Find your character. Ended by Mother E._
 
-In this act the players shall become comfortable with their characters and their relationships. No significant development of the characters or their relationships shall happen in this act. It is OK to make small changes to how you view your character during this act. The goal is that you at the end of the act have a clear picture of who your character is and your starting relationships. This is also a time for the ghosts to calmly get the hang of how they can interact with each other and the living characters in a constructive way.
+In this act the players shall become comfortable with their characters and their relationships. No significant development of the characters or their relationships shall happen in this act. It is OK to make small changes to how you view your character during this act. The goal is that you at the end of the act have a clear picture of who your character is and your starting relationships. This is also a time for the ghosts to get the hang of how they can interact with each other and the living characters in a constructive way.
 
 During this act, the characters will prepare the last of the food. Towards the end of the act all will take their seats around the table and start eating. Once everyone has started eating, Mother E will reveal that she intends to sell the Tiara. As soon as she has said this, and before anyone else can say anything, the act will end. Transition immediately to:
 
@@ -195,58 +197,60 @@ During this act, the characters will prepare the last of the food. Towards the e
 
 _5-10 minutes: What does your character really feel? Started by Mother E and ended when all have spoken._
 
-This mini-act starts directly after Mother E has informed the others that she plans to sell the Tiara. One at the time, in any order, the players let their characters have an internal monologue about how they feel at this exact moment about the decision. An internal monologue means that the player lets their character speak completely from the heart, as if no-one was listening. No other characters are allowed to comment or react to what is said. Once everyone is done, there is a short pause in silence where any who may have gotten up are given time to sit down. Then begins:
+This mini-act starts directly after Mother E has informed the others that she plans to sell the Tiara. One at the time, in any order, the players let their characters have an internal monologue about how they feel at this exact moment about the decision. An internal monologue means that the player lets their character speak completely from the heart, as if no-one was listening. However, not not reveal any story-altering secrets at this time. No other characters are allowed to comment or react to what is said. Once everyone has had their turn, there is a short pause in silence where any who may have gotten up are given time to sit down. Then begins:
 
 ## Act 3: Conflict 
 
-_20 minutes: Make the conflict lines between characters clear. Started by Mother E and ended by Granny D._
+_30 minutes: Make the conflict lines between characters clear. Started by Mother E and ended by Granny D._
 
-In this act, each character pushes their agenda and listens to the opinions of others. It is OK for your character to nuance their view on any given topic, but any disagreements shall not be resolved in this act. 
+In this act, each character pushes their agenda and listens to the opinions of others. It is OK for your character to nuance their view on any given topic, but no disagreements shall be resolved in this act. 
 
 The act begins with a jump back in time. Mother E once more announces that she has decided to sell the Tiara. After this, all characters are free to act as they wish. However, no-one may leave the table until each character, ghosts included, have had the chance to speak up. 
 
-After about 23 minutes, Granny D’s booked taxi will call and announce that they are waiting. At this time, Granny D will say good bye and leave the apartment ending the act. Both Daughter F and Mother E can also end the act early by leaving the apartment. 
+After about 30 minutes, Granny D’s booked taxi will call and announce that they are waiting outside. At this time, Granny D will say good bye and leave the apartment ending the act. Both Daughter F and Mother E can also end the act early by leaving the apartment. 
 
 ## Act 4: Dream sequence
 
 _10-30 minutes. Takes place during the night between day one and day two. In this act, and this act only, the ghosts are completely free to do whatever they want. Started by Great-granny C and ended by Viscountess A._
 
-This act has three short scenes, one per ghost. Ahead of each scene, the responsible ghost player gets a minute to gather their thoughts and talk to any extras they wish to recruit. They then lead their assigned living character to the center of the room, explain the premise of the scene and start it.
+This act has three short scenes, one per ghost. Before the first scene, all will participate to clear an area where the dream sequences can be played out. Ahead of each scene, the responsible ghost player gets a minute to gather their thoughts and talk to any extras they wish to recruit. They then lead their assigned living character to the center of the room, explain the premise of the scene and start it.
 
 ## Act 5: Resolution / The Day After
 _20 minutes. Granny D is invited back for mid-morning "fika". This act resolves the conflicts from previous acts. Started by Daughter F and ended by Mother E._
 
-The last act takes place on the following day. All, both living and dead, have gathered for a mid-morning "Fika". During this act, the characters try to find a resolution to their relations with the other living and dead characters. This resolution can be either negative (Meaning the characters agree to disagree) or positive (Meaning the characters find common ground and understanding). The scene, and the game, ends with Mother E being called up by the auction house and informing them about her final decision regarding the Tiara. During this phone call, all other characters must listen in silence. When Mother E hangs up, the game has ended. Alternatively, the auction firm calls Mother E and asks for a decision.
+The last act takes place on the following day. All, both living and dead, have gathered for a mid-morning "fika". During this act, the characters try to find a resolution to their relationships and conflicts with the other living and dead characters. This resolution can be either negative (Meaning the characters agree to disagree) or positive (Meaning the characters find common ground and understanding). In this act, it can make sense for living characters to address their dead relatives directly, but unfortunately the living still have a hard time hearing any responses from the dead.
+
+The scene, and the game, ends with Mother E being called on her phone by the auction house and informing them about her final decision regarding the Tiara. Alternatively, Mother E calls the auction firm to inform them about her decision. During this phone call, all other characters must listen in silence. When Mother E hangs up, the game has ended. 
 
 ## Post-game reflections
 
-When act 5 has ended, leave a few minutes for free reflections and reactions from all players to the game. Then gather two-and-two, preferably with a player you have interacted less with during the game. Tell the other player how you experienced the game.
+When act 5 has ended, leave a few minutes for free and spontaneous reflections and reactions from all players of the game. Then gather two-and-two, preferably with a player you have interacted less with during the game. Tell the other player how you experienced the game.
 
-Then, gather everyone present in a circle, and allow each player to tell the larger group about their thoughts and their experience. It is encouraged to comment our fun and interesting things other players did during the game that improved your experience. Respect the speaker by only asking short clarification questions and not starting any discussions until everyone has had their turn.
+Then, gather everyone present in a circle, and allow each person to tell the larger group about their thoughts and their experiences. When it is your turn to speak, it is encouraged to comment on fun and interesting things other players did during the game that improved your experience. Respect your fellow participants by only asking short clarifying questions and not starting any discussions until everyone has had their turn.
 
 # Characters
 
 ## Daughter F
-You were born in 1995 in a rental apartment in Vasastan in downtown Stockholm and you are now 17 years old. Your father left your family when you were seven to move back to Australia and you not forgiven him for this. 
+You were born in 1995 in a rental apartment in Söder in downtown Stockholm and you are now 17 years old. Your father left your family when you were seven to move back to Australia and you have not forgiven him for this. 
 
-You do not have any particular interest in your fathers family but you do feel a strong connection to your ancestresses and their fantastic legacy. You are fascinated by the past and want to study history or archeology at university.
+You do not have any particular interest in your fathers family background but you do feel all the more stronger about your connection to your ancestresses and their fantastic legacy. You are fascinated by the past and want to study history or archeology at university.
 
-At some point in the future, when you get married, you will inherit the Tiara as the next in line of your family. It came to Seden with your granny's great-granny, a german noblewoman. As a school project, you have done research into the women of family five generations back. Your ancestress, the Viscountess of Holstein-Kiel, whose entire family was killed by a mob during the revolution of 1848, fled all by herself through Europe and had many adventures in both Paris and Milano. She finally arrived in Stockholm where a rich industry magnate fell head over heals for her and they had a magnificent fairytale wedding — with the Tiara glittering on the head of the Viscountess. The Tiara is an important symbol of your background and your identity.
+At some point in the future, when you get married, you will inherit the Tiara as the next in line of your family. The Tiara came to Sweden with your granny's great-granny, a german noblewoman. As a school project, you have done research into the women of your family five generations back. Your ancestress, the Viscountess of Holstein-Kiel, whose entire family was killed by a mob during the revolution of 1848, fled all by herself through Europe and had many adventures in both Paris and Milano. She finally arrived in Stockholm where a rich industry magnate fell head over heals for her and they had a magnificent fairytale wedding — with the Tiara glittering on the head of the Viscountess. The Tiara is an important symbol of your background and your identity.
 
-You want a song connection back to your ancestresses and the strongest connection you have is the idea that you will one day get married wearing the family Tiara.
+You want a strong connection back to your ancestresses and the strongest connection you have is the idea that you will one day get married wearing the family Tiara.
 
 ### Player instructions
 
 You start act 5 ( Resolution / The day after ) after all have sat down at the table. When everything seems to be in order, you start the act by simply saying anything that comes to your characters mind. 
 
-Feel free to improvise anecdotes about past events you have uncovered when studying your family history, as well as adventures the Viscountess had while traveling Europe. Escaped in a hay wagon! Was rescued by the Crown Prince, later Emperor, Franz Joseph of Austria who fell in love with her and would have given up his throne for her, had she only wanted him to! Elaborate away as these are all rumours ypu picked up or stories you have found in old diaries. 
+Feel free to improvise anecdotes about past events you have uncovered when studying your family history, including adventures the Viscountess had while traveling Europe. She escaped in a hay wagon! She was rescued by the Crown Prince, later Emperor, Franz Joseph of Austria who fell madly in love with her and would have given up his throne for her, had she only wanted him! Elaborate freely as these are all rumours you picked up and stories you have found in old diaries. 
 
 ### Voluntary accessory
 A novel. Preferably an old classic.
 
 ## Mother E
 
-You were born in a simple apartment in southern downtown Stockholm in 1959 and you are 53 years old. You have a practical mind and like getting things done. After high-school, you started a catering business that you have run since then. It has slowly grown, and you now have a solid network of chefs and can take on rather large events. Unfortunately, profitability is a bit of a challenge meaning you make ends meet, but not a lot more. The job also means long hours and late evenings, but you are proud of what you have achieved. Your only concern is that you have not been able to give your daughter the financial security you would have wanted.
+You were born in a simple apartment in Söder in downtown Stockholm in 1959 and you are 53 years old. You have a practical mind and like getting things done. After high-school, you started a catering business that you have run since then. It has slowly grown, and you now have a solid network of chefs and can take on rather large events. Unfortunately, profitability is a bit of a challenge meaning you make ends meet, but not a lot more. The job also means long hours and late evenings, but you are proud of what you have achieved. Your only concern is that you have not been able to give your daughter the financial security you would have wanted.
 
 Your were married for a few years to your daughters father, a charming Australian bartender , before you split up and he moved back to his native country. You do not actively dislike each other, but you have very little contact these days. Your daughter has not wanted to meet him after he left, and it has simply not happened.
 
@@ -260,21 +264,21 @@ The auction firm will call you tomorrow to confirm that you want to sell it. Bef
 
 #### Act 1 
 
-You will finish act 1 by saying, after about 20 minutes, “I have decided to sell the Tiara”.
+You will finish act 1 (Relationship building) by saying, after about 20 minutes, “I have decided to sell the Tiara”.
 
 Other characters will probably catch their breath and want to speak, but they may not. Raise a fist above your head and say “Freeze. We now go in to act 2. We shall now, one by one, have a short monologue about what our characters feel.”
 
-Then do a monologue, no longer than 60 seconds about your own thoughts on the matter. Then nod to another player who can take over. When all have had their turn, raise your hand again and say “Act 3, conflict, starts now and continues for 20 minutes.”
+Then do a monologue, no longer than 60 seconds about your own thoughts on the matter. When you are done nod to another player who can take over. When all have had their turn and all are sitting down, raise your fist again and say “Act 3, conflict, starts now and continues for 20 minutes.”
 
-Lower your hand and repeat your last line: “I have decided to sell the Tiara”
+Lower your fist and repeat your last line: “I have decided to sell the Tiara”
 
 #### Act 4
 
-Act 4 is the dream sequence.  It ends with the Viscountess A starts to put back chairs and tables. While the others help out, set an alarm on yours cell phone so that it will ring after 20 minutes.
+Act 4 (The dream sequences) ends with the Viscountess A telling all to put back chairs and tables. While the others do this, set an alarm on yours cell phone so that it will ring 20 minutes after the start of act 5 (The day after / Resolution).
 
 #### Act 5
 
-Act 5 and the entire game will end when your cell phone rings. It is the auction house calling to get the last OK to sell the Tiara. Tell them what you have decided. When the call is over, you will raise a fist above your head and say that the game is over.
+Act 5 (The day after / Resolution) and the entire game will end when your cell phone rings. It is the auction house calling to get the last OK to sell the Tiara. Tell them what you have decided. When the call is over, you will raise a fist above your head and say that the game is over.
 
 ### Voluntary accessory
 
@@ -282,11 +286,11 @@ A cell phone that rings occasionally. You do not answer except at the end of act
 
 ## Granny D
 
-You were born in 1925 in a middle class apartment in Stockholm and you are 87 years old. You grew up in the shadow of a principled matriarch of a mother and never demanded much space, which was fine for you. You want people to agree and like each other, and dislike conflict of any kind.
+You were born in 1925 in a middle class apartment in Vasastan in downtown Stockholm and you are 87 years old. You grew up in the shadow of a principled matriarch of a mother and never asked for much space or attention. You want people to agree and like each other, and you dislike conflict of any kind.
 
-Only once in your life did you ever stand up to your mother and that was the day you applied to go to teachers collage and start your won career. Your grandmother B, in whose large country house you spend many fantastic summers, helped you finance your studies. You became a teacher and later married a colleague from the school in Söder, in downtown Stockholm, where you worked. You are therefore the first woman of your family with her own professional income.
+Only once in your life did you ever stand up to your mother and that was the day you applied to go to teachers collage and start your own career. Your grandmother B, in whose large country house you spend many fantastic summers, helped you finance your studies. You became a teacher and thereby the first woman of your family with her own professional income. You later married a fellow teacher from the school in Söder in downtown Stockholm where you worked. He passed away a few year ago.
 
-Regarding the Tiara, you don’t really have a strong relationship with it. You wore it when you got married, but what will you do with a diamond sparkling piece of jewellery?  You do, however, know how much it meant to your mother.
+Regarding the Tiara, you don’t really have a strong relationship with it. You wore it when you got married, but what else could you do with a large and sparkling piece of diamond jewellery? You do, however, know how much it meant to your mother.
 
 In your life, what matters most is the happiness of your daughter E and your granddaughter F.
 
@@ -294,22 +298,22 @@ Your secret wish is to free yourself from your mother, whose opinions and (non-)
 
 ### Player instructions
 
-You will finish act 3, conflict. It is the act that starts with Mother E repeating her line “I have decided to sell the Tiara”. End the act by pretending to receive a message/call on your old cell phone saying your booked taxi has arrived. You end the act by saying good by and leaving the apartment. Wait a second and then walk back into the room with your fist raised above your head and saying “This ends act 2. Act 3 consists of 3 dream sequences. We move away the table and chairs to get an open space and then we give the scene to Granny’s Granny C”.
+You will finish act 3 (Conflict). This is the act that starts with Mother E repeating her line “I have decided to sell the Tiara”. End the act by pretending to receive a message/call on your old cell phone saying your booked taxi has arrived. You end the act by saying good by and leaving the apartment. Wait a second and then walk back into the room with your fist raised above your head, saying “This ends act 2. Act 3 consists of 3 dream sequences. We move away the table and chairs to get an open space and then we give the scene to Granny’s Granny C”.
 
 ### Voluntary Accessory
-A pastille box to offer when brokering peace.
+A pastille box to offer from when brokering peace.
 
-## Granny’s Granny C
+## Great-granny C
 
-You were born in 1894 in Gnesta, a small village in the countryside outside Stockholm. You grew up comfortably but simply with the smell of freshly baked cinnamon rolls, but you know your family history. 
+You were born in 1894 in Gnesta, a small village in the countryside far outside of Stockholm. You childhood was simple but comfortable a spacious but unassuming house filled with the smell of freshly baked cinnamon rolls. But you know your family legacy promiesd so much more. 
 
-You are the descendent of a fantastic family history, filled with adventure and glamour. Never was this more clear that in the live of your grandmother, the Viscountess A, whom you always looked up to. Losing here when you were just a teenager was a hard blow. A while later, most of the country house was lost ti a fire, destroying almost everything that linked back to your family history and financial security. The only remnant was the Tiara, which you inherited when you got married. The Tiara was your most prized possession and your connection with your ancestresses. You have never even considered the idea that it could ever be sold.
+You are the descendent of a fantastic family, whose history was filled with both adventure and glamour. Never was this more clear that in the live of your grandmother, the Viscountess A, whom you always looked up to. Losing here when you were just a teenager was a hard blow. Some years later, the country house burned down to the ground in a fire, destroying almost everything that connected you to your family history and financial security. The only remnant was the Tiara, which you inherited when you got married. The Tiara was your most prized possession and your only connection with your ancestresses. You have never even considered the idea that it could ever be sold.
 
-You married a bank clerk when you were young and moved back to downtown Stockholm with him, fleeing the suffocating country life. There you ruled the household with an iron fist valuing a conservative, but active, lifestyle. You participated in several causes taking care of the moral of society. You had arrange meetings and sewing bees in your apartment, and conducted cultural outings to the theatre. You did not care much for the fight for the right to vote, which was in full swing during your teenage years. You have tried to lead your daughter with a firm grip and make her understand the value of the old housewife ideal, and the feminine heritage and duty. If women try to be like men, they lose their feminine power and greatness. You try to balance your disappointment with your daughter for going against you when she went to teachers collage with a secret admiration (So far never spoken out loud) that she actually did it…
+You married a bank clerk when you were young and moved back to Vasastan in downtown Stockholm with him, fleeing the suffocating country life and ruling the household with an iron fist. You value a conservative, but active, lifestyle. You participated in several causes taking care of the moral of society. You arranged meetings and sewing bees in your apartment. You conducted cultural outings to the theatre. You did not care much for the fight for the right to vote, which was in full swing during your teenage years. You have tried to lead your daughter with a firm grip and make her understand feminine heritage and duty, and the value of the old housewife ideals. If women try to be like men, they lose their feminine power and greatness. You try to balance your disappointment with your daughter for going against you when she went to teachers collage with a secret admiration (So far never spoken out loud to living or dead) that she actually did it…
 
 You do not want your descendants to lose their link back to their ancestresses and the Tiara is the foremost and last symbol that remains.
 
-Despite your differences, you have a mostly positive relationship with your mother B, But you do think that her decision to go around you and financially support your daughters collage tuition was equal parts helping her and sticking it to you.
+Despite your differences, you have a mostly positive relationship with your mother B. But you do think that her decision to go around you and financially support your daughter's collage tuition was equal parts helping her and sticking it to you.
 
 You never understood your mother B’s bitterness to her mother, the Viscountess A, and the fantastic life that A gave her. You sometimes get angry with B that she does not appreciate A.
 
@@ -317,9 +321,9 @@ You will not tell anyone about your grief connected to the house fire, and what 
 
 ### Player instructions
 
-You start act 4 (Dream Sequence) when Granny D, with her fist raised above her head, tells you to do this. You will have the first dream sequence together with Mother E. It may take between 2 and 10 minutes. Bring her to the middle of the room. Explain how/where she “wakes up” in the dream. This is your chance to explain your perspective on the Tiara and its legacy. Tell your story.
+You start act 4 (The dream sequences) when Granny D, with her fist raised above her head, tells you to do this. 
 
-You control the game world completely and everything you say becomes reality. Borrow other players as extras if you wish, but you will not have time to give them particularly detailed instructions. 
+You will have the first dream sequence together with Mother E. It may take anywhere between 2 and 10 minutes. Bring her to the middle of the room. Explain how/where she “wakes up” in the dream. This is your chance to explain your perspective on the Tiara and its legacy. Tell your story. You control the game world completely and everything you say becomes reality. Borrow other players as extras if you wish, but you will not have time to give them particularly detailed instructions. 
 
 End the scene by saying “I now leave your dream. Come with me” and take Mother by the hand to the edge of the room. 
 
@@ -329,23 +333,21 @@ A fine broach
 
 ## Granny’s Granny B
 
-You were born in a grand apartment in central Stockholm in 1860. You grew up surrounded by nannies, governesses and girl schools. What you lacked in your childhood, was a mother who was present.  You thought that no matter how hard you tried to get close to her, you never succeeded. Your clearest memory of her, the Viscountess A, was from when se was sitting at her dressing table getting ready to go out to yet another party. Next to her was always the great Tiara, the last remnant of her upbringing in the German nobility. As such, it always represented everything wrong with your childhood.
+You were born in a grand apartment in central Stockholm in 1860. You grew up surrounded by nannies, governesses and girl schools. What you lacked in your childhood, was a mother who was present.No  matter how hard you tried to get close to her, she allways kept her distance. Your clearest memory of her, the Viscountess A, was of her sitting at her dressing table getting ready to go out to yet another party. Next to her was always the great Tiara, the last remnant of her life in the German nobility. As such, it always represented everything wrong with your childhood.
 
-As an adult you found a good man, the postmaster of Gnesta, and you moved as far from the city as you could. There you raised your daughter with baking and crafts and all the love you never got. But she was a stubborn one and it was clear from an early age that she idolised her grandmother, the Viscountess and the fast life in the city. As soon as she was grown, she married a city man and moved back to that life.
+As an adult you found a good man, the postmaster of Gnesta, and you moved as far from the city as you could. There you raised your daughter with baking and crafts and all the love you never got. But she was a stubborn one and it was clear from an early age that she idolised her grandmother, the Viscountess A, and the fast life in the city. As soon as she was grown, she married a city man and moved back to that life.
 
 Your beloved granddaughter, D, was with you most summers and when your daughter was not prepared to help out financially, you pitched in and gave D the money for tuition for teachers collage. 
 
 You do not think your mother could have missed how disappointed you were with her, but even so she has never apologised; she was always too self-centred. But even so, you feel a respect for her deep down, for a reason you have never told anyone, living or dead. 
 
-Regarding the Tiara, you think it might as well be sold off and the money used for something useful. It is a bad symbol of decadence. You inherited it when you got married, but then let it rest in the bank vault and never touched it. Today, you regret not selling it yourself when you had the chance but followed the family tradition and handed it to your daughter on her wedding day.
+Regarding the Tiara, you think it might as well be sold off and the money invested into something useful. It is a bad symbol of decadence. You inherited it when you got married, but then let it rest in the bank vault and never touched it. Today, you regret not selling it yourself when you had the chance. Instead you followed the family tradition and handed it to your daughter on her wedding day.
 
-You will play passively aggressive and not speak plainly about how you feel about your mother until you have a dream sequence with your granddaughter D in Act 4. There you will tell her in detail what sort of person Great-Granny's granny the Viscountess A really is!
+You will play passively aggressive and not speak plainly about how you feel about your mother until you have a dream sequence with your granddaughter D in Act 4. There you will tell her in detail what sort of person Great-Granny's granny the Viscountess A really is! In the final act, you will speak freely about it with both living and dead.
 
 ## Player instructions
 
-In act 4 (The Dream Sequence) you will have the second dream sequence together with your grand-daughter, Granny D. It may take anywhere between 2 and 10 minutes. Bring her to the center of the room. Explain how/where she “wakes up” in the dream. This is your chance to explain your perspective on the Tiara and its legacy. Tell your story.
-
-You control the game world completely and everything you say becomes reality. Borrow other players as extras if you wish, but you will not have time to give them particularly detailed instructions. 
+In act 4 (The Dream Sequence) you will have the second dream sequence together with your grand-daughter, Granny D. It may take anywhere between 2 and 10 minutes. Bring her to the center of the room. Explain how/where she “wakes up” in the dream. This is your chance to explain your perspective on the Tiara and its legacy. Tell your story. You control the game world completely and everything you say becomes reality. Borrow other players as extras if you wish, but you will not have time to give them particularly detailed instructions. 
 
 End the scene by saying “I now leave your dream. Come with me” and take Granny D by the hand to the edge of the room. 
 
@@ -355,30 +357,28 @@ A kitchen implement.
 
 ## Granny's Great-granny , Viscountess A
 
-You were born into a poor farmer’s family in Småland in 1833. You always had an appetite for the good things in life. When your brother got the opportunity to go down to the shipyard in Lübeck in Germany and work there, you followed him to get a chance to see the world.
+You were born into a poor farmer’s family in Småland on the Swedish countryside in 1833. You always had an appetite for the good things in life so when your brother got the opportunity to go down to the shipyard in Lübeck in Germany and work there, you followed him to get a chance to see the world.
 
-Once in Lübeck, you managed to get a job in the kitchen of a lesser noble family, which was not quite the glamour you were looking for. With some charm and one or two less than noble acts, you managed to rise to the position of chambermaid which was somewhat more to your taste. 
+Once in Lübeck, you managed to get a job in the kitchen of a lesser noble family, which was not quite the glamour you were looking for. With some charm and one or two not quite moral acts, you managed to rise to the position of chambermaid which was somewhat more to your tastes. 
 
-Because of local unrest, the family you worked for with had do depart to America on short notice. You stayed behind to pack up the last of the possessions, which you also did. But rather than accompany the luggage across the ocean, you put a substantial amount of money, some jewels and a fantastic Tiara in your pocket and disappeared. 
+Because of local unrest, the family you worked for with had do depart to America on short notice. You stayed behind to pack up the last of the possessions. But rather than accompany the luggage across the ocean you put a sum of money, some jewels, and a fantastic Tiara in your pocket and disappeared. 
 
-Back in Stockholm, you introduced yourself under a new noble-sounding name. With the money you had, and the Tiara more specifically, you were quickly accepted into society. Everyone in Stockholm, including your children and grand-children, think you are a Viscountess from Holstein-Kiel whose entire family was murdered by the mob in the revolution of 1848. It is said that you fled through many adventures in both Paris and Milano before you finally arrived in Stockholm and settled there. 
+Back in Stockholm, you introduced yourself under a new name and title. With the money you had, and the Tiara more specifically, you were quickly accepted into society. Everyone in Stockholm, including your children and grand-children, think you are a Viscountess from Holstein-Kiel whose entire family was murdered by the mob in the revolution of 1848. It is said that you fled through many adventures in both Paris and Milano before finally arriving in Stockholm and settling there. 
 
-An industrial magnate of humble origins but with with an unbelievable income fell for you and soon you had the life you always dreamed of. Parties, social functions and no more scrubbing of floors. 
+An industrial magnate of humble origins but with with massive resources fell for you and a fairy-tale wedding later you had the life you always dreamed of. Parties, social functions and no more scrubbing of floors. 
 
-Together you had a daughter and a son, and you made sure that they were given a first-rate upbringing with nannies and good schools, all things you could not even dream of as a child. You know that your daughter is angry with you for being what she considers an absent mother, but she cannot even imagine how good she had it. Your motto has always been "Carpe Diem" and you are a bit sad that your daughter did not adopt the same perspective on life. Your grand-daughter, however, showed more grit but unfortunately you did not live long enough to see her grow up into a woman. 
+Together you had a daughter and a son, and you made sure that they were given a first-rate upbringing with nannies and good schools, all of which you could not even dream of as a child. You know that your daughter is angry with you for being what she considers an absent mother, but she cannot even imagine how good she had it. Your motto has always been "Carpe Diem" and you are a bit sad that your daughter did not adopt the same perspective on life. Your grand-daughter, however, showed more grit but unfortunately you did not live long enough to see her become a grown woman. 
 
-With regards to the Tiara, it was a practical item and a means to achieve your dreams, but you have always been a pragmatic person and sometimes find that your descendents have shown just a bit too much sentimentality and focus a bit too much on family history rather than getting to where they want in life. 
+With regards to the Tiara, it was a practical item and a means to achieve your dreams, but you have always been a pragmatic person. You sometimes find that your descendents show just a bit too much sentimentality and focus way too much on family history rather than getting to where they want in life. 
 
 You will not tell anyone your true story or how you came by the Tiara until you are doing your dream sequence with your great great grand-daughter F, where you will show/tell in monologue form the entire story with all of the details. 
 
 ### Player instructions
 
-In act 4 (The Dream Sequences) you will have the third and last dream sequence together with Daughter F. It may take anywhere between 2 and 10 minutes. Bring her to the center of the room. Explain how/where she “wakes up” in the dream. This is your chance to explain your perspective on the Tiara and its legacy. Tell your story.
-
-You control the game world completely and everything you say becomes reality. Borrow other players as extras if you wish, but you will not have time to give them particularly detailed instructions. 
+In act 4 (The Dream Sequences) you will have the third and last dream sequence together with Daughter F. It may take anywhere between 2 and 10 minutes. Bring her to the center of the room. Explain how/where she “wakes up” in the dream. This is your chance to explain your perspective on the Tiara and its legacy. Tell your story. You control the game world completely and everything you say becomes reality. Borrow other players as extras if you wish, but you will not have time to give them particularly detailed instructions. 
 
 End the scene by saying “I now leave your dream. Come with me” and take Daughter F by the hand to the edge of the room. As it is the last of the dream sequences, once it is over, raise a fist above your hand and say "Now we move on to Act 5: The day after. We put back the table and chairs and start the scene as soon as Daughter F begins to act."
 
 ### Voluntary Accessory
 
-An envelope symbolising an important letter you never actually wrote. Perhaps a letter to your parents, or maybe your big brother?
+An envelope symbolising an important letter you never actually wrote. Perhaps a letter to your parents, or maybe your older brother?
