@@ -38,18 +38,25 @@ Arrange an item for each of the characters. Some suggestions:
 # On location
 
 ## Warmup
-When everyone is gathered and all preparations are done, it is time for a warmup to get the creativity going. One suggestion is provided below:
-The Coat Hanger
+When everyone is gathered and all preparations are done, it is time for a warmup to get the creativity going. 
+
+One suggestion is provided below:
+
+### The Coat Hanger
 The point of this game is to warm up the creative part of the brain and get into a spontaneous state of mind. As such, there should be as little after-though and structure as possible while doing it. This is how it goes:
-Everyone gathers in a ring and one person holds a coat hanger.
-The person holding the coat hanger mimes an activity. The coat hanger may be used as an abstract prop if appropriate, or not at all.
-The others guess what the the person with the coat hanger is miming. As soon as someone guesses the right answer, the mime will hand over the coat hanger to the person who guessed the right answer,
-The person now holding the coat hanger now mimes another activity and the rest guess.
-The game goes on for about 10 minutes.
-Introductory text
+
+* Everyone gathers in a ring and one person holds a coat hanger.
+* The person holding the coat hanger mimes an activity. The coat hanger may be used as an abstract prop if appropriate, or not at all.
+* The others guess what the the person with the coat hanger is miming. As soon as someone guesses the right answer, the mime will hand over the coat hanger to the person who guessed the right answer,
+* The person now holding the coat hanger now mimes another activity and the rest guess.
+* The game goes on for about 10 minutes.
+
+## Introductory text
 Read the following introductory text aloud:
-Welcome to the larp Granny’s Great-granny’s Tiara!
-The larp has six characters: Six generations of mothers and daughters from the same family. It takes place in the flat of Mother E. Mother E is an energetic self-employed in the catering business. The company is just barely carrying its costs. Her daughter F also lives here, who has not quite come of age yet. 
+
+_Welcome to the larp Granny’s Great-granny’s Tiara!_
+
+_The larp has six characters: Six generations of mothers and daughters from the same family. It takes place in the flat of Mother E. Mother E is an energetic self-employed in the catering business. The company is just barely carrying its costs. Her daughter F also lives here, who has not quite come of age yet._
 Once upon a time, when the Viscountess A arrived from Germany and married a nouveau-rich Swede, the family had large apartments, horses, wagons and servants. At that time, the women of the family had neither the need, nor the opportunity to work. As the generations have passed, the family’s circumstances have become simpler and simpler; from palaces to todays tiny flat. But the education and available options for the women have steadily grown. Daughter F will hopefully be the first women in her family to start at the University! 
 All that remains of the once glamorous life that the Viscountess lived is the family heirloom: The Tiara. All else is lost. The Tiara has passed from mother to daughter; the daughters have inherited it on their wedding day and the Tiara has stunned all who laid eyes on it. For some it specifically symbolises the wedding, the happiest(?) of all days. Others see the Tiara as a menace, a symbol of vanity and greed that keeps the women down. But it also symbolises the family history and the inherited bond between women, both symbolically and in a very tangible way. All the rest has been lost or has been inherited by the sons. Because Swedish tradition is that only jewellery is reliably inherited down through the line of women. 
 Today Granny D is invited for afternoon tea. And the ghosts of Great-granny C, Granny’s Granny B, and Granny’s Great-granny the viscountess A herself have felt drawn to this small family this very day. 
