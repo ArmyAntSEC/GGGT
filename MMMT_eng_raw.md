@@ -1,3 +1,10 @@
+# Grany's Greant-grannys Tiara
+Ett spökspel i sex kvinnogenerationer
+Av Susanne Vejdemo (susanne@vejdemo.se) 
+och Daniel Armyr (daniel@armyr.se)
+— Menar du att Mormors Mormors Mammas förflutna är viktigare än din framtid?
+— Nej, jag menar att Mormors Mormors Mammas förflutna är en del av min framtid!
+Citat från första uppsättningen 2012
 # About the game
 
 Granny’s Great-granny’s Tiara is a low-key nordic larp[^1] about Swedish[^2] femininity, traditionally female concerns and the relationships between mothers and daughters. It takes place in-between six generations of women of the same family, three living and three ghosts. The larp takes place in Stockholm of 2012.
