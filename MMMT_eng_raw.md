@@ -82,7 +82,9 @@ Shuffle out the characters, or put some thought into it. If you have any experie
 Read the following:
 
 _Before the dream sequences, the ghosts are, frustratingly enough, limited in their interaction with the living. They can whisper and try to influence, but it does not always work and it may also be misinterpreted. In general, they can also perform physical acts if these represent something non-physical. Examples: Put pressure on someones shoulders. Support someone. Beat a rhythm on someones chest to increase or decrease their heart-rate._
+
 _The ghosts can also interact and speak freely with each other. They have complex relationships between themselves and very much enjoy commenting how both the living and the dead react to situations._
+
 _In this larp silence is important. Very important. The living characters must include silence as a natural part of their way of interacting with each other. Otherwise the ghosts will have a hard time getting heard. Before you say something, feel free to take a long and deep breath._
 
 ## Optional preparation
