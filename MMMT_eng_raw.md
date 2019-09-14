@@ -64,8 +64,8 @@ Reread the characters
 Let each player reread their character so they remember what it said.
 Speed-dating! 
 Pair off all the players. Each pair then gets 60 seconds to have a quick talk. Do not reveal any big secrets at this time. Introduce your character in two sentences and say one sentence on how your character sees the character you are talking to. Both characters do not need to agree on the nature of the relationship. Then switch until everyone has talked to everyone else.
-Act structure
-Review the act structure in the next section.
+Summary of the acts
+Read through the act descriptions in the chapter below.
 Game start!
 Act description
 The larp is played as a sequence of shorter acts. Each act has a clear starting point, theme and a clear signal when it ends. Here follow a more extensive description of each act. 
@@ -137,10 +137,9 @@ Despite your differences, you have a mostly positive relationship with your moth
 You never understood your mother B’s bitterness to her mother, the Viscountess A, and the fantastic life that A gave her. You sometimes get angry with B that she does not appreciate A.
 You will not tell anyone about your grief connected to the house fire, and what truly happened there, until you hold a dream sequence with Mother E in act 3 where you will visualize/tell exactly what happened and how you felt about it. During the dream sequence you will communicate how important you consider continuity and family to be and how disappointed you would be if she were to get rid of the last family heirloom.
 Player instructions
-Du påbörjar akt 4 (drömscenen) när Mormor D, med lyftat knuten hand, säger åt dig att göra det.
-I akt 4 (drömscen) kommer du ha den första drömscenen, tillsammans med Mamma E. Den får ta allt mellan 2 och 10 minuter. Ta upp henne  på scenen, berätta hur/var hon ”vaknar” i drömmen. Det är din chans att förklara för henne hur du ser på tiaran, plikten och arvet. Berätta din historia. 
-Du kontrollerar spelvärlden så allt du säger händer. Låna andra spelare som statister om du vill, men du kommer inte ha tid att ge dem särskilt mycket instruktioner. Avsluta scenen genom att säga ”nu lämnar jag din dröm, kom med mig” och ta Mamma E av scenen.
-Frivillig accessoar
+You start act 4 (Dream Sequence) when Granny D, with her fist raised above her head, tells you to do this. You will have the first dream sequence together with Mother E. It may take between 2 and 10 minutes. Bring her to the middle of the room. Explain how/where she “wakes up” in the dream. This is your chance to explain your perspective on the Tiara and its legacy. Tell your story.
+You control the game world completely and everything you say becomes reality. Borrow other players as extras if you wish, but you will not have time to give them particularly detailed instructions. 
+End the scene by saying “I now leave your dream. Come with me” and take Mother by the hand to the edge of the room. Voluntary Accessory.
 En fin brosch
 Mormors Mormor B
 Du föddes i en fin våning i centrala Stockholm år 1860. Du växte upp med barnskötare, guvernanter och flickskolor. Det du saknade under din uppväxt var dock en närvarande mamma. Du tyckte att hur mycket du än försökte komma riktigt nära henne så gick det aldrig. 
