@@ -1,14 +1,64 @@
-# Preparation
+# About the game
 
 Granny’s Great-granny’s Tiara is a low-key nordic larp[^1] about Swedish[^2] femininity, traditionally female concerns and the relationships between mothers and daughters. It takes place in-between six generations of women of the same family, three living and three ghosts. The larp takes place in Stockholm of 2012.
 
-This larp uses the “ghost” meta technique in a very literal form. Unlike many other larps these ghosts have both personality and their own agendas and will try to use whatever influence they may have on their descendents.
+This larp uses the “ghost”[^3] meta technique in a very literal form. Unlike many other larps these ghosts have both personality and their own agendas and will try to use whatever influence they may have on their descendents.
 
 A single production of the larp takes about 3.5 hours, including preparation and post-larp reflections.
 
-[^1]: "What sets the Nordic larp traditions apart from others is a strong emphasis on collaboration and collective creation, unobtrusive rules, as well as a rich variety of play styles and settings sometimes including heavy themes." https://nordiclarp.org/wiki/Nordic_larp
+[1]: "Larp refers to a type of interactive game or storytelling in which the players assume a role and act as a character within the set fiction. It can be described as theater without an audience or script. What sets the Nordic larp traditions apart from others is a strong emphasis on collaboration and collective creation, unobtrusive rules, as well as a rich variety of play styles and settings sometimes including heavy themes." https://nordiclarp.org/wiki/Nordic_larp
 
-[^2]: None of the players familiar with Swedish culture? Not a problem. Just approximate with generalized western culture and go with it. Any specifics that matter to the game will be spelled out in the footnotes of this document.
+[2]: None of the players familiar with Swedish culture? Not a problem. Just approximate with generalized western culture and go with it. Any specifics that matter to the game will be spelled out in the footnotes of this document.
+
+[3]: A ghost character is a character that does not represent a real physical being. They have traditionally been used by the game masters are tools to interact with the subconcious player characters. In this game, however, the ghosts represent actual dead people.
+
+## Basic larp concepts
+
+If you are new to Larping, here are a few concepts and terms that might be useful to ba aware of.
+
+### Character
+
+The in-story character that you play. These are the six generations of women.
+
+### Player
+
+The real-world person paying one of the characters.
+
+### Raised fist / Cut
+
+If a user raises their fist and/or calls out "CUT" you immediately stop where you are and fall silent. Either the person will continue with giving an instruction that is directed to you as a player and shall be followed, or something serious has gone wrong and the game must take a break until the serious issue has been resolved. 
+
+Do not hesitate to call CUT if something happens that requires the game to stop for a period to sort things out, like for example an accident where a player got hurt. Safety first.
+
+### Brems
+
+Brems is Norweigian for "break" and is used as a code word to tell another player to dial things back a bit. Nordic larps, including this one, deal with intense emotions and things can get heated. Trust that your fellow players will tell you if you go to far, and also trust that they will back down if you use the "Brems" word. There is no shame in using it. 
+
+## Swedish cultural and geographical context
+
+For players unfamiliar with some of the locations or cultural contexts, here is a quick summary of some concepts relevant to this game.
+
+### Sweden
+
+Up until the end of the first world war, Sweden was an extremely poor place. In particular, the country life for the majority consisted of small family farms on rented land, hard labour, and starvation. 
+
+### Vasastan
+
+Vasastan is a part of northern downdown Stockholm. It has been a decidedly middle-class area for a long time.
+
+### Söder
+
+Söder is the southern half of downtown Stockholm. It has been the poorer half of Stockholm up until a few decades ago.
+
+### Gnesta
+
+Gnesta is a small town about a days travel by horse from Stockholm. It represents the southern edge of the greater Stockholm of today and the edge of civilisation from a Stockholm perspective.
+
+### Germany
+
+For most of history before the second world war, Germany was a very rich country compared to the poor Sweden. Germany has been a go-to country for higher education and job oppertunities up until recently.
+
+# Preparation
 
 ## Players needed
 
@@ -16,9 +66,11 @@ The larp requires exactly six players. There are only female characters, but the
 
 The larp works well for beginners. It can make sense to assign any more experienced players to the ghost roles.
 
-The larp does not strictly require a separate game master. However, no one who plays a character may have read any character descriptions except their own. This is a lap where secrets have a role to play.
+The larp does not strictly require a separate game master [^3]. However, no one who plays a character may have read any character descriptions except their own. This is a larp where secrets have a role to play.
 
-If there is a separate game master, this person should handle the act breaks described on the character sheets.
+If there is a separate game master, this person should handle the act breaks described on the character sheets. See the Game Master appendix for a summary of what the Game Master should keep track of during the run of the game if one is present.
+
+[4]: "A Game master is the person running the game. It is sometimes synonymous with Organizer." https://nordiclarp.org/wiki/Game_Master
 
 ## Preparations before the event
 
@@ -27,21 +79,23 @@ Review the list below to make sure all is prepared.
 * Arrange a location. An open kitchen is recommended but not required. You will need a table with exactly three chairs, and at least three other seats close to the table.
 * Prepare six name tags – for example by using index cards and safety pins.
 * Print out the character descriptions and the smaller character notes.
-* Prepare something manual and timeless that the women can work together on.The descriptions below assume that they will prepare something simple to eat, for example a fruit salad.
-* Prepare coffee/tea and biscuits as well. Make sure there is enough for the ghosts as well, including the food above.
+* Prepare something manual and timeless that the women can work together on.The descriptions below assume that they will prepare something simple to eat, for example a fruit salad. Make sure there is enough for the ghosts as well, including the coffee/tea below.
+* Prepare "Fika"[^5] (coffee/tea and biscuits) as well which will be needed for Act 5: The day after / Resolution.
 * Ensure that the character playing Mother E has a working cell phone. Unless there is a clearly visible wall-clock in the space you are playing, make sure all characters have watches or some other way to check the time.
 * Those playing ghosts shall preferably be dressed in as much black as possible. Those not playing ghosts shall preferably be dressed in colors other than black.
+
+[5] "Fika" is a tradition that is deeply engrained in Swedish culture. It shares many similarities with the more well-known Brittish Afternoon Tea, but can be held mid-morning, mid-afternoon or late evening and preferably at all of these times of day. Coffee is the traditional hot beverage that it is based on, but tea works as well.
 
 ## Voluntary preparations
 
 Arrange an item for each of the characters. Some suggestions: 
 
-* Granny's Great-granny, The Viscountess A: An envelope symbolising a letter she never wrote.
-* Granny's Granny B: A kitchen implement
-* Great-granny C: A fine broach
-* Granny D: A pastille box she can offer from when she wants to broker peace.
-* Mother E: The above mentioned cell phone.
-* Daughter F: A book, possibly an old classic.
+* **Granny's Great-granny, The Viscountess A:** An envelope symbolising a letter she never wrote.
+* **Granny's Granny B:** A kitchen implement
+* **Great-granny C:** A fine broach
+* **Granny D:** A pastille box she can offer from when she wants to broker peace.
+* **Mother E:** The above mentioned cell phone.
+* **Daughter F:** A novel, preferably an old classic.
 
 # On location
 
@@ -73,7 +127,7 @@ _Once upon a time, when the Viscountess A arrived from Germany and married a nou
 
 _All that remains of the once glamorous life that the Viscountess lived is the family heirloom: The Tiara. All else is lost. The Tiara has passed from mother to daughter; the daughters have inherited it on their wedding day and the Tiara has stunned all who laid eyes on it. For some it specifically symbolises the wedding, the happiest(?) of all days. Others see the Tiara as a menace, a symbol of vanity and greed that keeps the women down. But it also symbolises the family history and the inherited bond between women, both symbolically and in a very tangible way. All the rest has been lost or has been inherited by the sons. Because Swedish tradition is that only jewellery is reliably inherited down through the line of women._
 
-_Today Granny D is invited for afternoon tea. And the ghosts of Great-granny C, Granny’s Granny B, and Granny’s Great-granny the viscountess A herself have felt drawn to this small family this very day._
+_Today Granny D is invited for afternoon "fika". And the ghosts of Great-granny C, Granny’s Granny B, and Granny’s Great-granny the viscountess A herself have felt drawn to this small family this very day..._
 
 _The first three acts take place on day 1. Act 4 takes place in the dreams of the living characters later that night. Act 5 takes place during the following day, when Granny D comes back._
 
@@ -92,7 +146,7 @@ _The ghosts can also interact and speak freely with each other. They have comple
 _In this larp silence is important. Very important. The living characters must include silence as a natural part of their way of interacting with each other. Otherwise the ghosts will have a hard time getting heard. Before you say something, feel free to take a long and deep breath._
 
 ## Optional preparation
-Play the following test scene to get a feeling for how ghosts can work on a larp. Let two of the living characters play maffia leaders who have challenged each other to Russian roulette. 
+Play the following test scene to get a feeling for how ghosts can work on a larp. Let two of the living characters play maffia leaders who have challenged each other to Russian roulette [^6]. 
 
 They each sit quietly in a chair, facing each other. They have a gun (Any item can substitute) containing one real shot and many empties. Each time they raise the gun to their head they can die. They send the gun back and forth and pull the trigger each time. 
 
@@ -102,11 +156,13 @@ Each mafioso has two ghosts standing behind their back. They will try to influen
 
 As ghosts, experiment with how you can both raise the intensity of the situation or calm things down. After the scene, discuss what worked and what was difficult.
 
-## Dream sequence
+[6]: "Russian roulette is a lethal game of chance in which a player places a single round in a revolver, spins the cylinder, places the muzzle against his or her head, and pulls the trigger." https://en.wikipedia.org/wiki/Russian_roulette
+
+## Dream sequences
 
 Read the following:
 
-_Being a ghost is hard. But in the dream world, the ghosts have their time to shine. As a ghost, you can hold dream sequences with a living character who is asleep. In the dream sequence you can address the living directly and they can answer you back. You control the entire plot of the dream sequence._
+_Being a ghost is hard. But in the dream world, the ghosts have their time to shine. As a ghost, you can hold dream sequences with a living character who is asleep. In the dream sequence you can address the living character directly and they can answer you back. You control the entire plot of the dream sequence._
 
 _To hold a dream sequence you start by leading the dreamer into the middle of the room and then placing them where you want them. You then describe the environment you are in. You can also describe other characters who are present and may even use the other ghost players as extras. They can either play themselves or or someone else. You control the dream world completely, so everything you way will be true for the dreamer._
 
@@ -116,7 +172,7 @@ _Your goal with the dream sequence will be to make the dreamer understand someth
 Let each player reread their character so they remember what it said.
 
 ## Speed-dating! 
-Pair off all the players. Each pair then gets 60 seconds to have a quick talk. Do not reveal any big secrets at this time. Introduce your character in two sentences and say one sentence on how your character sees the character you are talking to. Both characters do not need to agree on the nature of the relationship. Then switch until everyone has talked to everyone else.
+Pair off all the players. Each pair then gets 60 seconds to have a quick talk. Do not reveal any big secrets at this time. Introduce your character in two sentences and say one sentence about how you see the relationship between the two characters. Both characters do not need to agree on the nature of the relationship. Then switch until everyone has talked to everyone else.
 
 ## Summarize of the acts
 Read through the act descriptions in the chapter below.
@@ -125,11 +181,11 @@ Read through the act descriptions in the chapter below.
 
 # Act description
 
-The larp is played as a sequence of shorter acts. Each act has a clear starting point, theme and a clear signal when it ends. Here follow a more extensive description of each act. 
+The larp is played as a sequence of shorter acts. Each act has a clear starting point, theme, and a clear signal when it ends. The acts are described in detail here:
 
 ## Act 1: Relationship building
 
-20 minutes. Find the relations. Find your character.  Is ended by Mother E.
+_20 minutes. Find the relations. Find your character. Ended by Mother E._
 
 In this act the players shall become comfortable with their characters and their relationships. No significant development of the characters or their relationships shall happen in this act. It is OK to make small changes to how you view your character during this act. The goal is that you at the end of the act have a clear picture of who your character is and your starting relationships. This is also a time for the ghosts to calmly get the hang of how they can interact with each other and the living characters in a constructive way.
 
@@ -137,13 +193,13 @@ During this act, the characters will prepare the last of the food. Towards the e
 
 ## Act 2: Monologues
 
-5-10 minutes: What does your character really feel? Started by Mother E and ended when all have spoken.
+_5-10 minutes: What does your character really feel? Started by Mother E and ended when all have spoken._
 
 This mini-act starts directly after Mother E has informed the others that she plans to sell the Tiara. One at the time, in any order, the players let their characters have an internal monologue about how they feel at this exact moment about the decision. An internal monologue means that the player lets their character speak completely from the heart, as if no-one was listening. No other characters are allowed to comment or react to what is said. Once everyone is done, there is a short pause in silence where any who may have gotten up are given time to sit down. Then begins:
 
 ## Act 3: Conflict 
 
-About 20 min: Make the conflict lines between characters clear. Started by Mother E and ended by Granny D.
+_20 minutes: Make the conflict lines between characters clear. Started by Mother E and ended by Granny D._
 
 In this act, each character pushes their agenda and listens to the opinions of others. It is OK for your character to nuance their view on any given topic, but any disagreements shall not be resolved in this act. 
 
@@ -153,14 +209,16 @@ After about 23 minutes, Granny D’s booked taxi will call and announce that the
 
 ## Act 4: Dream sequence
 
-10-30 minutes. Takes place during the night between day one and day two. In this act, and this act only, the ghosts are completely free to do whatever they want. Started by Great-granny C and ended by Viscountess A.	
+_10-30 minutes. Takes place during the night between day one and day two. In this act, and this act only, the ghosts are completely free to do whatever they want. Started by Great-granny C and ended by Viscountess A._
 
 This act has three short scenes, one per ghost. Ahead of each scene, the responsible ghost player gets a minute to gather their thoughts and talk to any extras they wish to recruit. They then lead their assigned living character to the center of the room, explain the premise of the scene and start it.
 
 ## Act 5: Resolution / The Day After
-20 minutes. Granny D is invited back. Started by Daughter F and ended by Mother E.
+_20 minutes. Granny D is invited back for mid-morning "fika". This act resolves the conflicts from previous acts. Started by Daughter F and ended by Mother E._
 
-The last act takes place the day after. All, both living and dead, have gathered for a mid-morning tea/coffee break (Swedish Fika). During this act, the characters try to find a resolution in their relations with the other living and dead characters. This resolution can be either negative (Meaning the characters agree to disagree) or positive (Meaning the characters find common ground and understanding). The scene, and the game, ends with Mother E being called up by the auction house and informing them about her final decision regarding the Tiara. During this phone call, all other characters must listen in silence. When Mother E hangs up, the game has ended. Alternatively, the auction firm calls Mother E and asks for a decision.
+The last act takes place on the following day. All, both living and dead, have gathered for a mid-morning "Fika". During this act, the characters try to find a resolution to their relations with the other living and dead characters. This resolution can be either negative (Meaning the characters agree to disagree) or positive (Meaning the characters find common ground and understanding). The scene, and the game, ends with Mother E being called up by the auction house and informing them about her final decision regarding the Tiara. During this phone call, all other characters must listen in silence. When Mother E hangs up, the game has ended. Alternatively, the auction firm calls Mother E and asks for a decision.
+
+## Post-game reflections
 
 When act 5 has ended, leave a few minutes for free reflections and reactions from all players to the game. Then gather two-and-two, preferably with a player you have interacted less with during the game. Tell the other player how you experienced the game.
 
@@ -171,32 +229,32 @@ Then, gather everyone present in a circle, and allow each player to tell the lar
 ## Daughter F
 You were born in 1995 in a rental apartment in Vasastan in downtown Stockholm and you are now 17 years old. Your father left your family when you were seven to move back to Australia and you not forgiven him for this. 
 
-You do not have any particular interest in your fathers family but you do feel a strong connection to your ancestresses and their fantastic history. You are fascinated by history and want to study history or archeology at university.
+You do not have any particular interest in your fathers family but you do feel a strong connection to your ancestresses and their fantastic legacy. You are fascinated by the past and want to study history or archeology at university.
 
-At some point in the future, when you get married, you will inherit the Tiara as the next in line of your family. It came to Seden with your great-granny’s granny, a german noblewoman. As a school project, you have done some research into the women of family five generations back. Your ancestress, the Viscountess of Holstein-Kiel, whose entire family was killed by a mob during the revolution of 1848, fled all by herself through Europe and had many adventures in both Paris and Milano. She finally arrived in Stockholm where a rich industry magnate fell head over heals for her and they had a magnificent fairytale wedding — with the Tiara glittering on the head of the Viscountess. The Tiara is an important symbol of your background and your identity.
+At some point in the future, when you get married, you will inherit the Tiara as the next in line of your family. It came to Seden with your granny's great-granny, a german noblewoman. As a school project, you have done research into the women of family five generations back. Your ancestress, the Viscountess of Holstein-Kiel, whose entire family was killed by a mob during the revolution of 1848, fled all by herself through Europe and had many adventures in both Paris and Milano. She finally arrived in Stockholm where a rich industry magnate fell head over heals for her and they had a magnificent fairytale wedding — with the Tiara glittering on the head of the Viscountess. The Tiara is an important symbol of your background and your identity.
 
-You want a song connection back to your ancestresses and the strongest is the idea that you will once get married wearing the family Tiara.
+You want a song connection back to your ancestresses and the strongest connection you have is the idea that you will one day get married wearing the family Tiara.
 
 ### Player instructions
 
 You start act 5 ( Resolution / The day after ) after all have sat down at the table. When everything seems to be in order, you start the act by simply saying anything that comes to your characters mind. 
 
-Feel free to improvise anecdotes about past events you have uncovered when studying your family history, as well as adventures the Viscountess had while traveling Europe. Escaped in a hay wagon! Was rescued by the crown prince, later emperor, Franz Joseph of Austria who fell in love with her and would have given up his throne for her, had she only wanted him to! Elaborate away as they are all rumours or  notes you have found in old diaries. 
+Feel free to improvise anecdotes about past events you have uncovered when studying your family history, as well as adventures the Viscountess had while traveling Europe. Escaped in a hay wagon! Was rescued by the Crown Prince, later Emperor, Franz Joseph of Austria who fell in love with her and would have given up his throne for her, had she only wanted him to! Elaborate away as these are all rumours ypu picked up or stories you have found in old diaries. 
 
 ### Voluntary accessory
-A book. Preferably an old classic.
+A novel. Preferably an old classic.
 
 ## Mother E
 
-You were born in a simple apartment in southern downtown Stockholm, in 1959 and you are 53 years old. You have a practical mind and like getting things done. After high-school, you started a catering business that you have run since then. It has slowly grown, and you now have a solid network of chefs and can take on rather large events. Unfortunately, profitability is a bit of a challenge meaning you make ends meet, but not a lot more. The job also means long hours and late evenings, but you are proud of what you have achieved. Your only concern is that you have not been able to give your daughter the financial security you would have wanted.
+You were born in a simple apartment in southern downtown Stockholm in 1959 and you are 53 years old. You have a practical mind and like getting things done. After high-school, you started a catering business that you have run since then. It has slowly grown, and you now have a solid network of chefs and can take on rather large events. Unfortunately, profitability is a bit of a challenge meaning you make ends meet, but not a lot more. The job also means long hours and late evenings, but you are proud of what you have achieved. Your only concern is that you have not been able to give your daughter the financial security you would have wanted.
 
-Your were married for a few years to your daughters father, a charming bartender from Australia, before you split up and he moved back to his family farm in Australia. You do not actively dislike each other, but you have very little contact. Your daughter has not wanted to meet him after he left, and it has simply not happened.
+Your were married for a few years to your daughters father, a charming Australian bartender , before you split up and he moved back to his native country. You do not actively dislike each other, but you have very little contact these days. Your daughter has not wanted to meet him after he left, and it has simply not happened.
 
-There are two things you would like to do for your daughter. One is to travel a month or two to Australia so that she can reconnect with her Australian heritage. The other is that you would like to give her enough money for a downpayment on an apartment when se is to go out in the world in a few years. These are things you have heard that other parents do for their kids but which have not been possible for you. 
+There are two things you would like to do for your daughter. One is to travel a month or two to Australia so that she can reconnect with her Australian heritage. The other is that you would like to give her enough money for a downpayment on an apartment for when she comes of age in a few years. These are things you have heard that other parents do for their kids but which have not been possible for you. 
 
-But, when you got married, you inherited the fantastic family heirloom, the Tiara. The idea is that your daughter will get is when she is married, a somewhat stale family tradition. You have thought about this for many years and have now made up your mind. You will sell the Tiara. It has been valued to 150 000 SEK which would cover both a trip to Australia and a small fund for your daughter.
+When you got married, you inherited the fantastic family heirloom, the Tiara. The idea is that your daughter will get is when she gets married, in your opinion a somewhat stale family tradition. You have thought about this for many years and have now made up your mind. You will sell the Tiara. You have been in touch with an auction firm that has has valued the Tiara to 150 000 SEK which would cover both a trip to Australia and a downpayment for a small city apartment.
 
-The auction firm will call you tomorrow to arrange the details. Before then, you want to inform your daughter and your mother about the decision. You are unsure what sort of reaction you will get, but deep down you know this to be the right decision so it is important for you that they understand why you are doing this.
+The auction firm will call you tomorrow to confirm that you want to sell it. Before then, you want to inform your daughter and your mother about the decision in person. You are unsure what sort of reaction you will get, but deep down you know this to be the right thing to do so it is important for you that they understand why you are doing it.
 
 ### Player instructions
 
@@ -204,7 +262,7 @@ The auction firm will call you tomorrow to arrange the details. Before then, you
 
 You will finish act 1 by saying, after about 20 minutes, “I have decided to sell the Tiara”.
 
-Other characters will catch their breath and want to speak, but they may not. Raise a fist above your head and say “Freeze. We now go in to act 2. We shall now, one by one, have a short monologue about what our characters feel.”
+Other characters will probably catch their breath and want to speak, but they may not. Raise a fist above your head and say “Freeze. We now go in to act 2. We shall now, one by one, have a short monologue about what our characters feel.”
 
 Then do a monologue, no longer than 60 seconds about your own thoughts on the matter. Then nod to another player who can take over. When all have had their turn, raise your hand again and say “Act 3, conflict, starts now and continues for 20 minutes.”
 
@@ -216,7 +274,7 @@ Act 4 is the dream sequence.  It ends with the Viscountess A starts to put back 
 
 #### Act 5
 
-Act 5 och the entire game will end when your cell phone rings. It is the auction house calling to get the last OK to sell the Tiara. Tell them what you have decided. When the call is over, it is up to you to raise a fist above your head and say that the game is over.
+Act 5 and the entire game will end when your cell phone rings. It is the auction house calling to get the last OK to sell the Tiara. Tell them what you have decided. When the call is over, you will raise a fist above your head and say that the game is over.
 
 ### Voluntary accessory
 
