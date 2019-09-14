@@ -9,28 +9,35 @@ A single production of the larp takes about 3.5 hours, including preparation and
 ## Players needed
 
 The larp requires exactly six players. There are only female characters, but the larp deals more with traditional feminine concerns and less about female expression and as such the larp works well regardless of the gender of the players.
+
 The larp works well for beginners. It can make sense to assign any more experienced players to the ghost roles.
+
 The larp does not strictly require a separate game master. However, no one who plays a character may have read any character descriptions except their own. This is a lap where secrets have a role to play.
+
 If there is a separate game master, this person should handle the act breaks described on the character sheets.
-Preparations before the event
+
+## Preparations before the event
 Review the list below to make sure all is prepared.
-Arrange a location. An open kitchen is recommended but not required. You will need a table with exactly three chairs, and at least three other seats close to the table.
-Prepare six name tags – for example by using index cards and safety pins.
-Print out the character descriptions and the smaller character notes.
-Prepare something manual and timeless that the women can work together on.The descriptions below assume that they will prepare something simple to eat, for example a fruit salad.
-Prepare coffee/tea and biscuits as well. Make sure there is enough for the ghosts as well, including the food above.
-Ensure that the character playing Mother E has a working cell phone. Unless there is a clearly visible wall-clock in the space you are playing, make sure all characters have watches or some other way to check the time.
-Those playing ghosts shall preferably be dressed in as much black as possible. Those not playing ghosts shall preferably be dressed in colors other than black.
-Voluntary preparations
+* Arrange a location. An open kitchen is recommended but not required. You will need a table with exactly three chairs, and at least three other seats close to the table.
+* Prepare six name tags – for example by using index cards and safety pins.
+* Print out the character descriptions and the smaller character notes.
+* Prepare something manual and timeless that the women can work together on.The descriptions below assume that they will prepare something simple to eat, for example a fruit salad.
+* Prepare coffee/tea and biscuits as well. Make sure there is enough for the ghosts as well, including the food above.
+* Ensure that the character playing Mother E has a working cell phone. Unless there is a clearly visible wall-clock in the space you are playing, make sure all characters have watches or some other way to check the time.
+* Those playing ghosts shall preferably be dressed in as much black as possible. Those not playing ghosts shall preferably be dressed in colors other than black.
+
+## Voluntary preparations
 Arrange an item for each of the characters. Some suggestions: 
-Granny's Great-granny, The Viscountess A: An envelope symbolising a letter she never wrote.
-Granny's Granny B: A kitchen implement
-Great-granny C: A fine broach
-Granny D: A pastille box she can offer from when she wants to broker peace.
-Mother E: The above mentioned cell phone.
-Daughter F: A book, possibly an old classic.
-On location
-Warmup
+* Granny's Great-granny, The Viscountess A: An envelope symbolising a letter she never wrote.
+* Granny's Granny B: A kitchen implement
+* Great-granny C: A fine broach
+* Granny D: A pastille box she can offer from when she wants to broker peace.
+* Mother E: The above mentioned cell phone.
+* Daughter F: A book, possibly an old classic.
+
+# On location
+
+## Warmup
 When everyone is gathered and all preparations are done, it is time for a warmup to get the creativity going. One suggestion is provided below:
 The Coat Hanger
 The point of this game is to warm up the creative part of the brain and get into a spontaneous state of mind. As such, there should be as little after-though and structure as possible while doing it. This is how it goes:
