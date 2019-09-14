@@ -64,18 +64,8 @@ Reread the characters
 Let each player reread their character so they remember what it said.
 Speed-dating! 
 Pair off all the players. Each pair then gets 60 seconds to have a quick talk. Do not reveal any big secrets at this time. Introduce your character in two sentences and say one sentence on how your character sees the character you are talking to. Both characters do not need to agree on the nature of the relationship. Then switch until everyone has talked to everyone else.
-Summary of the acts
-The acts are started and ended by specific players. They each have instructions for this in their character descriptions. 
-Review how the Monolog-act works. You can find the instructions for this in Mother E’s character description. 
-Also review how the dream sequence work. For details, see the character descriptions for the ghost characters.
-Act 1: Working together
-
-Act 2: Monologs 
-Act 3: Conflict 
-Act 4: Dream scen 
-Act 5: Morning coffee break the day after 
-Debriefing 
-Sitt down in pairs with someone you have not interacted so much during the game. Tell each other about your experience of the game. Then sit together in the complete group and allow each person to say something about the game to the entire group.
+Act structure
+Review the act structure in the next section.
 Game start!
 Act description
 The larp is played as a sequence of shorter acts. Each act has a clear starting point, theme and a clear signal when it ends. Here follow a more extensive description of each act. 
