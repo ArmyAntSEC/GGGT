@@ -21,7 +21,7 @@ A single production of the larp takes about 3.5 hours, including preparation and
 
 [2]: None of the players familiar with Swedish culture? Not a problem. Just approximate with generalised western culture and go with it as Swedish culture is not particularly sensitive to the problems of cultural appropriation. There is an entire section below spelling out cultural references necessary to properly interpret the character and act descriptions.
 
-[3]: A ghost character is a character that does not represent a real physical being. They have traditionally been used by the game masters as tools to interact with the subconsciousness of the player characters. In this game, however, the ghosts represent actual dead people.
+[3]: A ghost character is a character that does not represent a real physical being. They have traditionally been used by game masters as tools to interact with the subconsciousness of the player characters. In this game, however, the ghosts represent actual dead people.
 
 ## Basic larp concepts
 
