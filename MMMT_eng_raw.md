@@ -19,7 +19,7 @@ A single production of the larp takes about 3.5 hours, including preparation and
 
 [1]: "Larp refers to a type of interactive game or storytelling in which the players assume a role and act as a character within the set fiction. It can be described as theatre without an audience or script. What sets the Nordic larp traditions apart from others is a strong emphasis on collaboration and collective creation, unobtrusive rules, as well as a rich variety of play styles and settings sometimes including heavy themes." https://nordiclarp.org/wiki/Nordic_larp
 
-[2]: None of the players familiar with Swedish culture? Not a problem. Just approximate with generalised western culture and go with it. Any specifics that matter to the game will be spelled out in the footnotes of this document.
+[2]: None of the players familiar with Swedish culture? Not a problem. Just approximate with generalised western culture and go with it as Swedish culture is not sensitive to the problems of cultural appropriation. There is an entire section below spelling out cultural references necessary to properly interpret the character descriptions.
 
 [3]: A ghost character is a character that does not represent a real physical being. They have traditionally been used by the game masters are tools to interact with the subconscious player characters. In this game, however, the ghosts represent actual dead people.
 
@@ -47,7 +47,7 @@ Brems is Norwegian for "break" and is used as a code word to tell another player
 
 ## Swedish cultural and geographical context
 
-For players unfamiliar with some of the locations or cultural contexts, here is a quick summary of some concepts relevant to this game.
+For players unfamiliar with some of the locations or cultural contexts mentioned in the character and act descriptions, here is a quick summary of the local concepts relevant to this game. These concepts have counterparts in very many cultures, meaning you should be able to  easily replace them with your local equivalents.
 
 ### Sweden
 
