@@ -190,7 +190,10 @@ Read through the act descriptions in the chapter below.
 
 # Act description
 
-The larp is played as a sequence of shorter acts. Each act has a clear starting point, theme, and a clear signal when it ends. The acts are described in detail here:
+The larp is played as a sequence of shorter acts. Each act has a clear starting point, theme, and a clear signal when it ends. For each act, there is a section called "Game Master Instructions". These are for games that have a Game Master. For games without a game master, these instructions are repeated in the character descriptions for the respective character who is responsible for starting/ending a given act.
+
+## Starting the game
+To start the game, everyone should think up what their first action is going to be and then standing in an action pose as if they were just about to start that action. One player, or the game master, says "The game begins" and everyone performs that very first action they had planned.
 
 ## Act 1: Relationship building
 
@@ -198,13 +201,24 @@ _20 minutes. Find the relations. Find your character. Ended by Mother E._
 
 In this act the players shall become comfortable with their characters and their relationships. No significant development of the characters or their relationships shall happen in this act. It is OK to make small changes to how you view your character during this act. The goal is that you at the end of the act have a clear picture of who your character is and your starting relationships. This is also a time for the ghosts to get the hang of how they can interact with each other and the living characters in a constructive way.
 
-During this act, the characters will prepare the last of the food. Towards the end of the act all will take their seats around the table and start eating. Once everyone has started eating, Mother E will reveal that she intends to sell the Tiara. As soon as she has said this, and before anyone else can say anything, the act will end. Transition immediately to:
+During this act, the characters will prepare the last of the food. Towards the end of the act all will take their seats around the table and start eating. Once everyone has started eating, Mother E will reveal that she intends to sell the Tiara. As soon as she has said this, and before anyone else can say anything, the act will end.
+
+### Game Master Instructions
+
+Remind Mother E that she is to finish act 1 by saying, after about 20 minutes, “I have decided to sell the Tiara”.
+
+Other characters will probably catch their breath and want to speak, but they may not. Raise a fist above your head and say: “Freeze". We now go in to act 2. We shall now, one by one, have a short monologue about what our characters feel.”
+
 
 ## Act 2: Monologues
 
 _5-10 minutes. What does your character really feel? Started by Mother E and ended when all have spoken._
 
 This mini-act starts directly after Mother E has informed the others that she plans to sell the Tiara. One at the time, in any order, the players let their characters have an internal monologue about how they feel at this exact moment about the decision. An internal monologue means that the player lets their character speak completely from the heart, as if no-one was listening. However, not not reveal any story-altering secrets at this time. No other characters are allowed to comment or react to what is said. Once everyone has had their turn, there is a short pause in silence where any who may have gotten up are given time to sit down. Then begins:
+
+### Game Master Instructions
+
+Inform the players that they shall each in turn do a monologue, no longer than 60 seconds about your their  thoughts on the matter of the Tiara.When all have had their turn and all are sitting down, raise your fist again and say: “Act 3, conflict, starts now and continues for 20 minutes. Mother E, please repeat your last line.”
 
 ## Act 3: Conflict 
 
@@ -216,18 +230,30 @@ The act begins with a jump back in time. Mother E once more announces that she h
 
 After about 30 minutes, Granny D’s booked taxi will call and announce that they are waiting outside. At this time, Granny D will say good bye and leave the apartment ending the act. Both Daughter F and Mother E can also end the act early by leaving the apartment. 
 
+### Game Master Instructions
+Finish the act by nudging Granny D that she has received a message/call from the booked taxi that is now waiting outside. Once Granny D has left the apartment, raise your fist and say “This ends act 3. Act 4 consists of 3 dream sequences. We move away the table and chairs to get an open space and then we give the scene to Granny’s Granny C”.
+
 ## Act 4: Dream sequence
 
 _10-30 minutes. Takes place during the night between day one and day two. In this act, and this act only, the ghosts are completely free to do whatever they want. Started by Great-granny C and ended by Viscountess A._
 
 This act has three short scenes, one per ghost. Before the first scene, all will participate to clear an area where the dream sequences can be played out. Ahead of each scene, the responsible ghost player gets a minute to gather their thoughts and talk to any extras they wish to recruit. They then lead their assigned living character to the center of the room, explain the premise of the scene and start it.
 
+### Game Master Instructions
+
+When the last dream sequence is complete, tell the players to put the table and chairs back and to sit down. Start the act once everything is in order. Inform Daughter F that she should say the first line of the act by saying whatever is on her characters mind.
+
 ## Act 5: Resolution / The Day After
+
 _20 minutes. Granny D is invited back for mid-morning "fika". This act resolves the conflicts from previous acts. Started by Daughter F and ended by Mother E._
 
 The last act takes place on the following day. All, both living and dead, have gathered for a mid-morning "fika". During this act, the characters try to find a resolution to their relationships and conflicts with the other living and dead characters. This resolution can be either negative (Meaning the characters agree to disagree) or positive (Meaning the characters find common ground and understanding). In this act, it can make sense for living characters to address their dead relatives directly, but unfortunately the living still have a hard time hearing any responses from the dead.
 
 The scene, and the game, ends with Mother E being called on her phone by the auction house and informing them about her final decision regarding the Tiara. Alternatively, Mother E calls the auction firm to inform them about her decision. During this phone call, all other characters must listen in silence. When Mother E hangs up, the game has ended. 
+
+### Game Master instructions
+
+After about 20 minutes, or when you feel the act has come to a natural end, make a phone call to the cell phone of Mother E and ask her for a decision on the Tiara. As soon as you get the Yes/No, hang up. Immediately, raise your fist and say "This ends the act and the game. Thank you all for playing!". After this everyone stops playing their characters.
 
 ## Post-game reflections
 
@@ -246,11 +272,12 @@ At some point in the future, when you get married, you will inherit the Tiara as
 
 You want a strong connection back to your ancestresses and the strongest connection you have is the idea that you will one day get married wearing the family Tiara.
 
+Feel free to improvise anecdotes about past events you have uncovered when studying your family history, including adventures the Viscountess had while traveling Europe. She escaped in a hay wagon! She was rescued by the Crown Prince, later Emperor, Franz Joseph of Austria who fell madly in love with her and would have given up his throne for her, had she only wanted him! Elaborate freely as these are all rumours you picked up and stories you have found in old diaries. 
+
 ### Player instructions
 
 You start act 5 ( Resolution / The day after ) after all have sat down at the table. When everything seems to be in order, you start the act by simply saying anything that comes to your characters mind. 
 
-Feel free to improvise anecdotes about past events you have uncovered when studying your family history, including adventures the Viscountess had while traveling Europe. She escaped in a hay wagon! She was rescued by the Crown Prince, later Emperor, Franz Joseph of Austria who fell madly in love with her and would have given up his throne for her, had she only wanted him! Elaborate freely as these are all rumours you picked up and stories you have found in old diaries. 
 
 ### Voluntary accessory
 A novel. Preferably an old classic.
@@ -263,29 +290,31 @@ Your were married for a few years to your daughters father, a charming Australia
 
 There are two things you would like to do for your daughter. One is to travel a month or two to Australia so that she can reconnect with her Australian heritage. The other is that you would like to give her enough money for a downpayment on an apartment for when she comes of age in a few years. These are things you have heard that other parents do for their kids but which have not been possible for you. 
 
-When you got married, you inherited the fantastic family heirloom, the Tiara. The idea is that your daughter will get is when she gets married, in your opinion a somewhat stale family tradition. You have thought about this for many years and have now made up your mind. You will sell the Tiara. You have been in touch with an auction firm that has has valued the Tiara to 150 000 SEK which would cover both a trip to Australia and a downpayment for a small city apartment.
+When you got married, you inherited the fantastic family heirloom, the Tiara. The idea is that your daughter will get is when she gets married, in your opinion a somewhat stale family tradition. You have thought about this for many years and have now made up your mind. You will sell the Tiara. You have been in touch with an auction firm that has valued the Tiara to 150 000 SEK which would cover both a trip to Australia and a downpayment for a small city apartment.
 
 The auction firm will call you tomorrow to confirm that you want to sell it. Before then, you want to inform your daughter and your mother about the decision in person. You are unsure what sort of reaction you will get, but deep down you know this to be the right thing to do so it is important for you that they understand why you are doing it.
 
 ### Player instructions
 
-#### Act 1 
+#### Act 1: Relationship Building
 
-You will finish act 1 (Relationship building) by saying, after about 20 minutes, “I have decided to sell the Tiara”.
+You will finish act 1 by saying, after about 20 minutes, “I have decided to sell the Tiara”.
 
 Other characters will probably catch their breath and want to speak, but they may not. Raise a fist above your head and say: “Freeze". We now go in to act 2. We shall now, one by one, have a short monologue about what our characters feel.”
 
-Then do a monologue, no longer than 60 seconds about your own thoughts on the matter. When you are done nod to another player who can take over. When all have had their turn and all are sitting down, raise your fist again and say: “Act 3, conflict, starts now and continues for 20 minutes.”
+#### Act 2: Monologues
+
+Do a monologue, no longer than 60 seconds about your own thoughts on the matter of the Tiara. When you are done nod to another player who can take over. When all have had their turn and all are sitting down, raise your fist again and say: “Act 3, conflict, starts now and continues for 20 minutes.”
 
 Lower your fist and repeat your last line: “I have decided to sell the Tiara”
 
-#### Act 4
+#### Act 4: The Dream Sequences
 
-Act 4 (The dream sequences) ends with the Viscountess A telling all to put back chairs and tables. While the others do this, set an alarm on yours cell phone so that it will ring 20 minutes after the start of act 5 (The day after / Resolution).
+Act 4 ends with the Viscountess A telling all to put back chairs and tables. While the others do this, set an alarm on yours cell phone so that it will ring 20 minutes after the start of act 5 (The day after / Resolution).
 
-#### Act 5
+#### Act 5: The Day After / Resolution
 
-Act 5 (The day after / Resolution) and the entire game will end when your cell phone rings. It is the auction house calling to get the last OK to sell the Tiara. Tell them what you have decided. When the call is over, you will raise a fist above your head and say that the game is over.
+Act 5 and the entire game will end when your cell phone rings. It is the auction house calling to get the last OK to sell the Tiara. Tell them what you have decided. When the call is over, you will raise a fist above your head and say that the game is over.
 
 ### Voluntary accessory
 
@@ -305,7 +334,7 @@ Your secret wish is to free yourself from your mother, whose opinions and (non-)
 
 ### Player instructions
 
-You will finish act 3 (Conflict). This is the act that starts with Mother E repeating her line “I have decided to sell the Tiara”. End the act by pretending to receive a message/call on your old cell phone saying your booked taxi has arrived. You end the act by saying good by and leaving the apartment. Wait a second and then walk back into the room with your fist raised above your head, saying “This ends act 2. Act 3 consists of 3 dream sequences. We move away the table and chairs to get an open space and then we give the scene to Granny’s Granny C”.
+You will finish act 3 (Conflict). This is the act that starts with Mother E repeating her line “I have decided to sell the Tiara”. End the act by pretending to receive a message/call on your old cell phone saying your booked taxi has arrived. You end the act by saying good by and leaving the apartment. Wait a second and then walk back into the room with your fist raised above your head, saying “This ends act 3. Act 4 consists of 3 dream sequences. We move away the table and chairs to get an open space and then we give the scene to Granny’s Granny C”.
 
 ### Voluntary Accessory
 A pastille box to offer from when brokering peace.
@@ -389,3 +418,11 @@ End the scene by saying “I now leave your dream. Come with me” and take Daug
 ### Voluntary Accessory
 
 An envelope symbolising an important letter you never actually wrote. Perhaps a letter to your parents, or maybe your older brother?
+
+# Game Master instructions
+If you have a Game Master, then it makes sense that this person manage the act breaks rather than the players themselves. If so, all players should ignore the section "Player instructions" on their character sheets, and instead the game master should manage that part of the game. These instructions are all gathered here for convenience.
+
+
+## Act 5: The day after / Resolution
+
+Tell the players to sit down at the table and then start the act once everything is in order. Inform Daughter F that she should say the first line of the act, saying whatever is on her characters mind.
