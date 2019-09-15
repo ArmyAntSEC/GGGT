@@ -13,11 +13,11 @@ This larp uses the “ghost”[^3] meta technique in a very literal form. Unlike
 
 A single production of the larp takes about 3.5 hours, including preparation and post-larp reflections.
 
-[1]: "Larp refers to a type of interactive game or storytelling in which the players assume a role and act as a character within the set fiction. It can be described as theater without an audience or script. What sets the Nordic larp traditions apart from others is a strong emphasis on collaboration and collective creation, unobtrusive rules, as well as a rich variety of play styles and settings sometimes including heavy themes." https://nordiclarp.org/wiki/Nordic_larp
+[1]: "Larp refers to a type of interactive game or storytelling in which the players assume a role and act as a character within the set fiction. It can be described as theatre without an audience or script. What sets the Nordic larp traditions apart from others is a strong emphasis on collaboration and collective creation, unobtrusive rules, as well as a rich variety of play styles and settings sometimes including heavy themes." https://nordiclarp.org/wiki/Nordic_larp
 
-[2]: None of the players familiar with Swedish culture? Not a problem. Just approximate with generalized western culture and go with it. Any specifics that matter to the game will be spelled out in the footnotes of this document.
+[2]: None of the players familiar with Swedish culture? Not a problem. Just approximate with generalised western culture and go with it. Any specifics that matter to the game will be spelled out in the footnotes of this document.
 
-[3]: A ghost character is a character that does not represent a real physical being. They have traditionally been used by the game masters are tools to interact with the subconcious player characters. In this game, however, the ghosts represent actual dead people.
+[3]: A ghost character is a character that does not represent a real physical being. They have traditionally been used by the game masters are tools to interact with the subconscious player characters. In this game, however, the ghosts represent actual dead people.
 
 ## Basic larp concepts
 
@@ -39,7 +39,7 @@ Do not hesitate to call CUT if something happens that requires the game to stop 
 
 ### Brems
 
-Brems is Norweigian for "break" and is used as a code word to tell another player to dial things back a bit. Nordic larps, including this one, deal with intense emotions and things can get heated. There is no shame in using the "Brems" word. Trust that your fellow players will tell you if you go to far, and also trust that they will back down if tell them to. Make sure they can also trust you to do the same.
+Brems is Norwegian for "break" and is used as a code word to tell another player to dial things back a bit. Nordic larps, including this one, deal with intense emotions and things can get heated. There is no shame in using the "Brems" word. Trust that your fellow players will tell you if you go too far, and also trust that they will back down if tell them to. Make sure they can also trust you to do the same.
 
 ## Swedish cultural and geographical context
 
@@ -53,11 +53,11 @@ Unlike the poor pre-world-war times, the Sweden of today has a significant publi
 
 ### Vasastan
 
-Vasastan is a part of northern downdown Stockholm. It has been a decidedly middle-class area for a long time.
+Vasastan is a part of northern downtown Stockholm. It has been a decidedly middle-class area for a long time.
 
 ### Söder
 
-Söder is the southern half of downtown Stockholm. It has been the poorer half of Stockholm up until a few decades ago. Due to rental control, those who have lived there for a long time can affort a reasonable appartment on a modest income.
+Söder is the southern half of downtown Stockholm. It has been the poorer half of Stockholm up until a few decades ago. Due to rental control, those who have lived there for a long time can afford a reasonable apartment on a modest income.
 
 ### Gnesta
 
@@ -65,7 +65,7 @@ Gnesta is a small town about a days travel by horse from Stockholm. It represent
 
 ### Germany
 
-For most of history before the second world war, Germany was a very rich country compared to the poor Sweden. Germany has been a go-to country for higher education and job oppertunities up until recently.
+For most of history before the second world war, Germany was a very rich country compared to the poor Sweden. Germany has been a go-to country for higher education and job opportunities up until recently.
 
 # Preparation
 
@@ -148,7 +148,7 @@ Shuffle out the characters, or put some thought into it. If you have any experie
 
 Read the following:
 
-_Except for inside the dream sequences, the ghosts are, frustratingly enough, limited in their interaction with the living. They can whisper and try to influence, or even occasinally scream out loud, but the living do not always hear and often misinterprete. In general, they can also perform physical acts if these represent something non-physical. Examples: Put pressure on someones shoulders. Support someone. Beat a rhythm on someones chest to increase or decrease their heart-rate. The exception is eating and drinking which the ghosts can do freely at any time._
+_Except for inside the dream sequences, the ghosts are, frustratingly enough, limited in their interaction with the living. They can whisper and try to influence, or even occasionally scream out loud, but the living do not always hear and often misinterpret. In general, they can also perform physical acts if these represent something non-physical. Examples: Put pressure on someones shoulders. Support someone. Beat a rhythm on someones chest to increase or decrease their heart-rate. The exception is eating and drinking which the ghosts can do freely at any time._
 
 _The ghosts can also interact and speak freely with each other. They have complex relationships between themselves and very much enjoy commenting how both the living and the dead react to situations._
 
@@ -183,7 +183,7 @@ Let each player reread their character so they remember what it said.
 ## Speed-dating! 
 Pair off all the players. Each pair then gets 60 seconds to have a quick talk. Do not reveal any big secrets at this time. Introduce your character in two sentences and say one sentence about how you see the relationship between the two characters. Both characters do not need to agree on the nature of the relationship. Then switch until everyone has talked to everyone else.
 
-## Summarize of the acts
+## Summarise the acts
 Read through the act descriptions in the chapter below.
 
 # Game start!
@@ -202,13 +202,13 @@ During this act, the characters will prepare the last of the food. Towards the e
 
 ## Act 2: Monologues
 
-_5-10 minutes: What does your character really feel? Started by Mother E and ended when all have spoken._
+_5-10 minutes. What does your character really feel? Started by Mother E and ended when all have spoken._
 
 This mini-act starts directly after Mother E has informed the others that she plans to sell the Tiara. One at the time, in any order, the players let their characters have an internal monologue about how they feel at this exact moment about the decision. An internal monologue means that the player lets their character speak completely from the heart, as if no-one was listening. However, not not reveal any story-altering secrets at this time. No other characters are allowed to comment or react to what is said. Once everyone has had their turn, there is a short pause in silence where any who may have gotten up are given time to sit down. Then begins:
 
 ## Act 3: Conflict 
 
-_30 minutes: Make the conflict lines between characters clear. Started by Mother E and ended by Granny D._
+_30 minutes. Make the conflict lines between characters clear. Started by Mother E and ended by Granny D._
 
 In this act, each character pushes their agenda and listens to the opinions of others. It is OK for your character to nuance their view on any given topic, but no disagreements shall be resolved in this act. 
 
@@ -273,9 +273,9 @@ The auction firm will call you tomorrow to confirm that you want to sell it. Bef
 
 You will finish act 1 (Relationship building) by saying, after about 20 minutes, “I have decided to sell the Tiara”.
 
-Other characters will probably catch their breath and want to speak, but they may not. Raise a fist above your head and say “Freeze. We now go in to act 2. We shall now, one by one, have a short monologue about what our characters feel.”
+Other characters will probably catch their breath and want to speak, but they may not. Raise a fist above your head and say: “Freeze". We now go in to act 2. We shall now, one by one, have a short monologue about what our characters feel.”
 
-Then do a monologue, no longer than 60 seconds about your own thoughts on the matter. When you are done nod to another player who can take over. When all have had their turn and all are sitting down, raise your fist again and say “Act 3, conflict, starts now and continues for 20 minutes.”
+Then do a monologue, no longer than 60 seconds about your own thoughts on the matter. When you are done nod to another player who can take over. When all have had their turn and all are sitting down, raise your fist again and say: “Act 3, conflict, starts now and continues for 20 minutes.”
 
 Lower your fist and repeat your last line: “I have decided to sell the Tiara”
 
@@ -312,7 +312,7 @@ A pastille box to offer from when brokering peace.
 
 ## Great-granny C
 
-You were born in 1894 in Gnesta, a small village in the countryside far outside of Stockholm. You childhood was simple but comfortable a spacious but unassuming house filled with the smell of freshly baked cinnamon rolls. But you know your family legacy promiesd so much more. 
+You were born in 1894 in Gnesta, a small village in the countryside far outside of Stockholm. You childhood was simple but comfortable a spacious but unassuming house filled with the smell of freshly baked cinnamon rolls. But you know your family legacy promised so much more. 
 
 You are the descendent of a fantastic family, whose history was filled with both adventure and glamour. Never was this more clear that in the live of your grandmother, the Viscountess A, whom you always looked up to. Losing here when you were just a teenager was a hard blow. Some years later, the country house burned down to the ground in a fire, destroying almost everything that connected you to your family history and financial security. The only remnant was the Tiara, which you inherited when you got married. The Tiara was your most prized possession and your only connection with your ancestresses. You have never even considered the idea that it could ever be sold.
 
@@ -340,7 +340,7 @@ A fine broach
 
 ## Granny’s Granny B
 
-You were born in a grand apartment in central Stockholm in 1860. You grew up surrounded by nannies, governesses and girl schools. What you lacked in your childhood, was a mother who was present.No  matter how hard you tried to get close to her, she allways kept her distance. Your clearest memory of her, the Viscountess A, was of her sitting at her dressing table getting ready to go out to yet another party. Next to her was always the great Tiara, the last remnant of her life in the German nobility. As such, it always represented everything wrong with your childhood.
+You were born in a grand apartment in central Stockholm in 1860. You grew up surrounded by nannies, governesses and girl schools. What you lacked in your childhood, was a mother who was present.No  matter how hard you tried to get close to her, she always kept her distance. Your clearest memory of her, the Viscountess A, was of her sitting at her dressing table getting ready to go out to yet another party. Next to her was always the great Tiara, the last remnant of her life in the German nobility. As such, it always represented everything wrong with your childhood.
 
 As an adult you found a good man, the postmaster of Gnesta, and you moved as far from the city as you could. There you raised your daughter with baking and crafts and all the love you never got. But she was a stubborn one and it was clear from an early age that she idolised her grandmother, the Viscountess A, and the fast life in the city. As soon as she was grown, she married a city man and moved back to that life.
 
@@ -376,7 +376,7 @@ An industrial magnate of humble origins but with with massive resources fell for
 
 Together you had a daughter and a son, and you made sure that they were given a first-rate upbringing with nannies and good schools, all of which you could not even dream of as a child. You know that your daughter is angry with you for being what she considers an absent mother, but she cannot even imagine how good she had it. Your motto has always been "Carpe Diem" and you are a bit sad that your daughter did not adopt the same perspective on life. Your grand-daughter, however, showed more grit but unfortunately you did not live long enough to see her become a grown woman. 
 
-With regards to the Tiara, it was a practical item and a means to achieve your dreams, but you have always been a pragmatic person. You sometimes find that your descendents show just a bit too much sentimentality and focus way too much on family history rather than getting to where they want in life. 
+Concerning the Tiara, it was a practical item and a means to achieve your dreams, but you have always been a pragmatic person. You sometimes find that your descendents show just a bit too much sentimentality and focus way too much on family history rather than getting to where they want in life. 
 
 You will not tell anyone your true story or how you came by the Tiara until you are doing your dream sequence with your great great grand-daughter F, where you will show/tell in monologue form the entire story with all of the details. 
 
