@@ -43,7 +43,7 @@ Do not hesitate to call CUT if something happens that requires the game to stop 
 
 ### Brems
 
-Brems is Norwegian for "break" and is used as a code word to tell another player to dial things back a bit. Nordic larps, including this one, deal with intense emotions and things can get heated. There is no shame in using the "Brems" word. Trust that your fellow players will tell you if you go too far, and also trust that they will back down if tell them to. Make sure they can also trust you to do the same.
+Brems is Norwegian for "break" and is used as a code word to tell another player to dial things back a bit, but otherwise continue the game. Many Nordic larps, including this one, deal with intense emotions and things can get heated. There is no shame in using the "Brems" word. Trust that your fellow players will tell you if you go too far, and also trust that they will back down if tell them to. Make sure they can also trust you to do the same.
 
 ## Swedish cultural and geographical context
 
