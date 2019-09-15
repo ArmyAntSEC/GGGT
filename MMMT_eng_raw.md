@@ -269,7 +269,7 @@ Then, gather everyone present in a circle, and allow each person to tell the lar
 # Characters
 
 ## Daughter F
-You were born in 1995 in a rental apartment in Söder in downtown Stockholm and you are now 17 years old. Your father left your family when you were seven to move back to Australia and you have not forgiven him for this. 
+You were born in 1995 in a rental apartment in Södermalm in downtown Stockholm and you are now 17 years old. Your father left your family when you were seven to move back to Australia and you have not forgiven him for this. 
 
 You do not have any particular interest in your fathers family background but you do feel all the more stronger about your connection to your ancestresses and their fantastic legacy. You are fascinated by the past and want to study history or archeology at university.
 
@@ -289,7 +289,7 @@ A novel. Preferably an old classic.
 
 ## Mother E
 
-You were born in a simple apartment in Söder in downtown Stockholm in 1959 and you are 53 years old. You have a practical mind and like getting things done. After high-school, you started a catering business that you have run since then. It has slowly grown, and you now have a solid network of chefs and can take on rather large events. Unfortunately, profitability is a bit of a challenge meaning you make ends meet, but not a lot more. The job also means long hours and late evenings, but you are proud of what you have achieved. Your only concern is that you have not been able to give your daughter the financial security you would have wanted.
+You were born in a simple apartment in Södermalm in downtown Stockholm in 1959 and you are 53 years old. You have a practical mind and like getting things done. After high-school, you started a catering business that you have run since then. It has slowly grown, and you now have a solid network of chefs and can take on rather large events. Unfortunately, profitability is a bit of a challenge meaning you make ends meet, but not a lot more. The job also means long hours and late evenings, but you are proud of what you have achieved. Your only concern is that you have not been able to give your daughter the financial security you would have wanted.
 
 Your were married for a few years to your daughters father, a charming Australian bartender , before you split up and he moved back to his native country. You do not actively dislike each other, but you have very little contact these days. Your daughter has not wanted to meet him after he left, and it has simply not happened.
 
@@ -329,7 +329,7 @@ A cell phone that rings occasionally. You do not answer except at the end of act
 
 You were born in 1925 in a middle class apartment in Vasastan in downtown Stockholm and you are 87 years old. You grew up in the shadow of a principled matriarch of a mother and never asked for much space or attention. You want people to agree and like each other, and you dislike conflict of any kind.
 
-Only once in your life did you ever stand up to your mother and that was the day you applied to go to teachers collage and start your own career. Your grandmother B, in whose large country house you spend many fantastic summers, helped you finance your studies. You became a teacher and thereby the first woman of your family with her own professional income. You later married a fellow teacher from the school in Söder in downtown Stockholm where you worked. He passed away a few year ago.
+Only once in your life did you ever stand up to your mother and that was the day you applied to go to teachers collage and start your own career. Your grandmother B, in whose large country house you spend many fantastic summers, helped you finance your studies. You became a teacher and thereby the first woman of your family with her own professional income. You later married a fellow teacher from the school in Södermalm in downtown Stockholm where you worked. He passed away a few year ago.
 
 Regarding the Tiara, you don’t really have a strong relationship with it. You wore it when you got married, but what else could you do with a large and sparkling piece of diamond jewellery? You do, however, know how much it meant to your mother.
 
