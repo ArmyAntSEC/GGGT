@@ -1,10 +1,14 @@
 # Grany's Greant-grannys Tiara
-Ett spökspel i sex kvinnogenerationer
-Av Susanne Vejdemo (susanne@vejdemo.se) 
-och Daniel Armyr (daniel@armyr.se)
-— Menar du att Mormors Mormors Mammas förflutna är viktigare än din framtid?
-— Nej, jag menar att Mormors Mormors Mammas förflutna är en del av min framtid!
-Citat från första uppsättningen 2012
+
+**A tale of six generations of women**
+
+By Susanne Vejdemo (susanne@vejdemo.se) and Daniel Armyr (daniel@armyr.se)
+
+- _Do you mean that Granny’s Greatgranny’s past is more important that your future?_
+- _No. I mean that Granny’s Greatgranny’s past is a part of my future!_
+
+Quote from the original 2012 production.
+
 # About the game
 
 Granny’s Great-granny’s Tiara is a low-key nordic larp[^1] about Swedish[^2] femininity, traditionally female concerns and the relationships between mothers and daughters. It takes place in-between six generations of women of the same family, three living and three ghosts. The larp takes place in Stockholm of 2012.
@@ -205,7 +209,7 @@ During this act, the characters will prepare the last of the food. Towards the e
 
 ### Game Master Instructions
 
-Remind Mother E that she is to finish act 1 by saying, after about 20 minutes, “I have decided to sell the Tiara”.
+Remind Mother E that she is to finish act 1 after about 20 minutes by saying “I have decided to sell the Tiara”.
 
 Other characters will probably catch their breath and want to speak, but they may not. Raise a fist above your head and say: “Freeze". We now go in to act 2. We shall now, one by one, have a short monologue about what our characters feel.”
 
