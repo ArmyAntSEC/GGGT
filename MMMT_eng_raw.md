@@ -59,17 +59,20 @@ Unlike the poor pre-world-war times, the Sweden of today has a significant publi
 
 Vasastan is a part of northern downtown Stockholm. It has been a decidedly middle-class area for a long time.
 
-### Söder
+### Södermalm
 
-Söder is the southern half of downtown Stockholm. It has been the poorer half of Stockholm up until a few decades ago. REcently, prices had rocketed but due to rental control, those who have lived there for a long time can afford a reasonable apartment on a modest income.
+Södermalm is the southern half of downtown Stockholm. It has been the poorer half of Stockholm up until a few decades ago. Recently prices had rocketed, but due to rental control those who have lived there for a long time can afford a reasonable apartment on a modest income.
 
 ### Gnesta
 
-Gnesta is a small town about a days travel by horse from Stockholm. It represents the southern edge of the greater Stockholm of today and the edge of civilisation from a Stockholm perspective.
+Gnesta is a small town a full day's travel by horse and carriage from Stockholm. It represents the southern edge of the greater Stockholm of today and the edge of civilisation from a Stockholm perspective.
 
 ### Germany
 
 For most of history before the second world war, Germany was a very rich country compared to the poor Sweden. Germany has been a go-to country for higher education and job opportunities up until recently.
+
+### Fika
+"Fika" is a tradition that is deeply engrained in Swedish culture. It is an informal social event consisting of sitting down and drinking a hot beverage and eating biscuits or sandwiches. It shares many similarities with the more well-known Brittish Afternoon Tea, but can be held mid-morning, mid-afternoon or late evening and preferably at all of these times of day. Coffee is the traditional hot beverage that it is based on, but tea works as well.
 
 # Preparation
 
@@ -93,11 +96,9 @@ Review the list below to make sure all is prepared.
 * Prepare six name tags – for example by using index cards and safety pins.
 * Print out the character descriptions and the smaller character notes.
 * Prepare something manual and timeless that the women can work together on.The descriptions below assume that they will prepare something simple to eat, for example a fruit salad. Make sure there is enough for the ghosts as well, including the coffee/tea below.
-* Prepare "Fika"[^5] (coffee/tea and biscuits) as well which will be needed for Act 5: The day after / Resolution.
+* Prepare "Fika" as well which will be needed for Act 5: The day after / Resolution.
 * Ensure that the character playing Mother E has a working cell phone. Unless there is a clearly visible wall-clock in the space you are playing, make sure all characters have watches or some other way to check the time.
 * Those playing ghosts shall preferably be dressed in as much black as possible. Those not playing ghosts shall preferably be dressed in colors other than black.
-
-[5] "Fika" is a tradition that is deeply engrained in Swedish culture. It shares many similarities with the more well-known Brittish Afternoon Tea, but can be held mid-morning, mid-afternoon or late evening and preferably at all of these times of day. Coffee is the traditional hot beverage that it is based on, but tea works as well.
 
 ## Voluntary preparations
 
