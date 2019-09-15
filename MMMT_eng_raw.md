@@ -25,7 +25,7 @@ A single production of the larp takes about 3.5 hours, including preparation and
 
 ## Basic larp concepts
 
-If you are new to Larping, here are a few concepts and terms that might be useful to ba aware of.
+If you are new to Larping, here are a few concepts and terms that might be useful to be aware of.
 
 ### Character
 
