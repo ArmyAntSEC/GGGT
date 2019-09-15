@@ -53,7 +53,7 @@ For players unfamiliar with some of the locations or cultural contexts, here is 
 
 Up until the end of the first world war, Sweden was an extremely poor place. In particular, the country life for the majority consisted of small family farms on rented land, hard labour, and starvation. 
 
-Unlike the poor pre-world-war times, the Sweden of today has a significant public safety net meaning all people are guaranteed free university eduction, free healthcare, and a basic retirement plan.
+Unlike the poor pre-world-war times, the Sweden of today has a significant public safety net meaning all people are guaranteed free university eduction, free healthcare, and a basic retirement plan. But an appartment in Stockholm is very costly and a hurdle for a young person wanting to set up a life in the city.
 
 ### Vasastan
 
@@ -61,7 +61,7 @@ Vasastan is a part of northern downtown Stockholm. It has been a decidedly middl
 
 ### Söder
 
-Söder is the southern half of downtown Stockholm. It has been the poorer half of Stockholm up until a few decades ago. Due to rental control, those who have lived there for a long time can afford a reasonable apartment on a modest income.
+Söder is the southern half of downtown Stockholm. It has been the poorer half of Stockholm up until a few decades ago. REcently, prices had rocketed but due to rental control, those who have lived there for a long time can afford a reasonable apartment on a modest income.
 
 ### Gnesta
 
