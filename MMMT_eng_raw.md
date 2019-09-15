@@ -423,11 +423,3 @@ End the scene by saying “I now leave your dream. Come with me” and take Daug
 ### Voluntary Accessory
 
 An envelope symbolising an important letter you never actually wrote. Perhaps a letter to your parents, or maybe your older brother?
-
-# Game Master instructions
-If you have a Game Master, then it makes sense that this person manage the act breaks rather than the players themselves. If so, all players should ignore the section "Player instructions" on their character sheets, and instead the game master should manage that part of the game. These instructions are all gathered here for convenience.
-
-
-## Act 5: The day after / Resolution
-
-Tell the players to sit down at the table and then start the act once everything is in order. Inform Daughter F that she should say the first line of the act, saying whatever is on her characters mind.
