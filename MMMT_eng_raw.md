@@ -69,7 +69,7 @@ Gnesta is a small town a full day's travel by horse and carriage from Stockholm.
 
 ### Germany
 
-For most of history before the second world war, Germany was a very rich country compared to the poor Sweden. Germany has been a go-to country for higher education and job opportunities up until recently.
+For most of history before the second world war, Germany was a very rich country compared to the much poorer Sweden. Germany has been a go-to country for higher education and job opportunities up until recently.
 
 ### Fika
 "Fika" is a tradition that is deeply engrained in Swedish culture. It is an informal social event consisting of sitting down and drinking a hot beverage and eating biscuits or sandwiches. It shares many similarities with the more well-known Brittish Afternoon Tea, but can be held mid-morning, mid-afternoon or late evening and preferably at all of these times of day. Coffee is the traditional hot beverage that it is based on, but tea works as well.
