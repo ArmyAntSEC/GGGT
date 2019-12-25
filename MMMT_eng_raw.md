@@ -1,4 +1,4 @@
-# Grany's Greant-grannys Tiara
+# Granny's Great-grannys Tiara
 
 **A tale of six generations of women**
 
