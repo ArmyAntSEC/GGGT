@@ -11,7 +11,7 @@ Quote from the original 2012 production.
 
 # About the game
 
-Granny’s Great-granny’s Tiara is a low-key nordic larp[^1] about Swedish[^2] femininity, traditionally female concerns and the relationships between mothers and daughters. It involves six generations of women from the same family, three living and three dead. The larp takes place in a Stockholm of 2012.
+Granny’s Great-granny’s Tiara is a low-key nordic larp[^1] about Swedish[^2] femininity, traditionally female concerns and the relationships between mothers and daughters. It involves six generations of women from the same family, three living and three dead. The larp takes place in Stockholm in the year 2020.
 
 This larp makes use of the “ghost”[^3] meta technique in a very literal form. In contrast to many other LARPs, these ghosts have both personality and agendas. They will make use of any and all influence they have have on their descendents to achieve their goals.
 
@@ -269,11 +269,11 @@ Then, gather everyone present in a circle, and allow each person to tell the lar
 # Characters
 
 ## Daughter F
-You were born in 1995 in this rental apartment in Södermalm in downtown Stockholm and you are now 17 years old. Your father left you and your mother when you were seven to move back to Australia and you never forgave him for that. 
+You were born in 2003 in this rental apartment in Södermalm in downtown Stockholm and you are now 17 years old. Your father left you and your mother when you were seven to move back to Australia and you never forgave him for that. 
 
 You do not have any particular interest in your fathers family background but you do feel all the more about your connection to your ancestresses and their fantastic legacy. You are fascinated by the past and want to study history or archeology at university.
 
-At some point in the future, when you get married, you will inherit the Tiara as the next in line of your family. The Tiara came to Sweden with your granny's great-granny, a german noblewoman. As a school project, you have done research into the women of your family five generations back. Your ancestress, the Viscountess of Holstein-Kiel, whose entire family was killed by a mob during the revolution of 1848, fled all by herself through Europe and had many adventures in both Paris and Milano. She finally arrived in Stockholm where a rich industry magnate fell head over heals for her and they had a magnificent fairytale wedding — with the Tiara glittering on the head of the Viscountess. The Tiara is an important symbol of your background and your identity.
+At some point in the future, when you get married, you will inherit the Tiara as the next in line of your family. The Tiara came to Sweden with your granny's great-granny, a german noblewoman. As a school project, you have done research into the women of your family five generations back. Your ancestress, the Viscountess of Holstein-Kiel, whose entire family was killed by a mob during an food riot in 1872, fled all by herself through Europe and had many adventures in both Paris and Milano. She finally arrived in Stockholm where a rich industry magnate fell head over heals for her and they had a magnificent fairytale wedding — with the Tiara glittering on the head of the Viscountess. The Tiara is an important symbol of your background and your identity.
 
 You want a strong connection back to your ancestresses and the strongest connection you have is the idea that you will one day get married wearing the family Tiara.
 
@@ -289,7 +289,7 @@ A novel. Preferably an old classic.
 
 ## Mother E
 
-You were born in a simple apartment in Södermalm in downtown Stockholm in 1959 and you are 53 years old. You have a practical mind and like getting things done. After high-school, you started a catering business that you have run since then. It has slowly grown, and you now have a solid network of chefs and can take on rather large events. Unfortunately, profitability is a bit of a challenge meaning you make ends meet, but not a lot more. The job means long hours and late evenings, but you are proud of what you have achieved. Your only concern is that you have not been able to give your daughter the financial security you would have wanted.
+You were born in a simple apartment in Södermalm in downtown Stockholm in 1967 and you are 53 years old. You have a practical mind and like getting things done. After high-school, you started a catering business that you have run since then. It has slowly grown, and you now have a solid network of chefs and can take on rather large events. Unfortunately, profitability is a bit of a challenge meaning you make ends meet, but not a lot more. The job means long hours and late evenings, but you are proud of what you have achieved. Your only concern is that you have not been able to give your daughter the financial security you would have wanted.
 
 Your were married for a few years to your daughters father, a charming Australian bartender, before you split up and he moved back to his native country. You do not actively dislike each other, but you have very little contact these days. Your daughter has not wanted to meet him after he left, and it has simply not happened.
 
@@ -327,7 +327,7 @@ A cell phone that rings occasionally. You do not answer except at the end of act
 
 ## Granny D
 
-You were born in 1925 in a middle class apartment in Vasastan in downtown Stockholm and you are 87 years old. You grew up in the shadow of a principled matriarch of a mother and never required much space or attention. You want people to agree and like each other, and you dislike conflict of all kinds.
+You were born in 1933 in a middle class apartment in Vasastan in downtown Stockholm and you are 87 years old. You grew up in the shadow of a principled matriarch of a mother and never required much space or attention. You want people to agree and like each other, and you dislike conflict of all kinds.
 
 Only once in your life did you ever stand up to your mother and that was the day you applied to go to teachers collage to start your own career. Your grandmother B, in whose large country house you spend many fantastic summers, helped you finance your studies. You became a teacher and thereby the first woman of your family with her own professional income. You later married a fellow teacher from the school in Södermalm in downtown Stockholm where you worked. He passed away a few year ago.
 
@@ -346,7 +346,7 @@ A pastille box to offer from when brokering peace.
 
 ## Great-granny C
 
-You were born in 1894 in Gnesta, a small village on the countryside far outside of Stockholm. You childhood was simple but comfortable in a spacious but unassuming house filled with the smell of freshly baked cinnamon rolls. But your family legacy promised you so much more. 
+You were born in 1902 in Gnesta, a small village on the countryside far outside of Stockholm. You childhood was simple but comfortable in a spacious but unassuming house filled with the smell of freshly baked cinnamon rolls. But your family legacy promised you so much more. 
 
 You are the descendent of a fantastic family line, whose history was filled with both adventure and glamour. Never was this more pronounced than in the life of your grandmother, the Viscountess A, whom you always looked up to. Losing here when you were just a teenager was a hard blow. Some years later when your childhood home burned down to the ground in a fire, almost everything that connected you to your family history and financial security was destroyed. The only remnant was the Tiara, which you inherited when you got married. The Tiara was your most prized possession and your only connection with your ancestresses. You have never even considered the idea that it could ever be sold.
 
@@ -374,7 +374,7 @@ A fine broach
 
 ## Granny’s Granny B
 
-You were born in a grand apartment in central Stockholm in 1860. You grew up surrounded by nannies, governesses and girl schools. What you lacked in your childhood, was a mother who was present. No matter how hard you tried to get close to her, she always kept her distance. Your clearest memory of her, the Viscountess A, was of her sitting at her dressing table getting ready to go out to yet another party. Next to her was always the great Tiara, the last remnant of her life in the German nobility. As such, it always represented everything wrong with your childhood.
+You were born in a grand apartment in central Stockholm in 1880. You grew up surrounded by nannies, governesses and girl schools. What you lacked in your childhood, was a mother who was present. No matter how hard you tried to get close to her, she always kept her distance. Your clearest memory of her, the Viscountess A, was of her sitting at her dressing table getting ready to go out to yet another party. Next to her was always the great Tiara, the last remnant of her life in the German nobility. As such, it always represented everything wrong with your childhood.
 
 As an adult you found a good man, the postmaster of Gnesta, and you moved as far from the city as you could. There you raised your daughter with baking and crafts and all the love you never got. But she was a stubborn one and it was clear from an early age that she idolised her grandmother, the Viscountess A, and the fast life in the city. As soon as she was grown, she married a city man and moved back to that life.
 
@@ -398,13 +398,13 @@ A kitchen implement.
 
 ## Granny's Great-granny , Viscountess A
 
-You were born into a poor farmer’s family in Småland on the Swedish countryside in 1833, but you always had an appetite for the good things in life. When your brother got the opportunity to go down to the shipyard in Lübeck in Germany and work there, you followed him to get a chance to see the world.
+You were born into a poor farmer’s family in Småland on the Swedish countryside in 1853, but you always had an appetite for the good things in life. When your brother got the opportunity to go down to the shipyard in Lübeck in Germany and work there, you followed him to get a chance to see the world.
 
 Once in Lübeck, you managed to get a job in the kitchen of a lesser noble family, which was not quite the glamour you were looking for. With some charm and one or two somewhat less than moral acts, you managed to rise to the position of chambermaid which was more to your taste. 
 
 Because of local unrest, the family you worked for with had do depart to America on short notice. You stayed behind to pack up the last of the possessions. But rather than accompany the luggage across the ocean you put a sum of money, some jewels, and a fantastic Tiara in your pocket and disappeared. 
 
-Back in Stockholm, you introduced yourself under a new name and title. With the money you had, and the Tiara more specifically, you were quickly accepted into society. Everyone in Stockholm, including your children and grand-children, think you are a Viscountess from Holstein-Kiel whose entire family was murdered by the mob in the revolution of 1848. It is said that you fled through many adventures in both Paris and Milano before finally arriving in Stockholm and settling there. 
+Back in Stockholm, you introduced yourself under a new name and title. With the money you had, and the Tiara more specifically, you were quickly accepted into society. Everyone in Stockholm, including your children and grand-children, think you are a Viscountess from Holstein-Kiel whose entire family was murdered by the mob in a food riot of 1872. It is said that you fled through many adventures in both Paris and Milano before finally arriving in Stockholm and settling there. 
 
 An industrial magnate of humble origins but with with massive resources fell for you and a fairy-tale wedding later you had the life you always dreamed of. Parties, social functions and no more scrubbing of floors. 
 
