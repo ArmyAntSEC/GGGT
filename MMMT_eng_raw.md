@@ -11,15 +11,15 @@ Quote from the original 2012 production.
 
 # About the game
 
-Granny’s Great-granny’s Tiara is a low-key nordic larp[^1] about Swedish[^2] femininity, traditionally female concerns and the relationships between mothers and daughters. It involves six generations of women from the same family, three living and three dead. The larp takes place in Stockholm in the year 2020.
+Granny’s Great-granny’s Tiara is a low-key nordic larp[^1] about Swedish[^2] femininity, traditionally female concerns and the relationships between mothers and daughters. It involves six generations of women from the same family, three living and three dead, deciding on weather to sell their greatest family heirloom or not. The larp takes place in Stockholm in the year 2020.
 
-This larp makes use of the “ghost”[^3] meta technique in a very literal form. In contrast to many other LARPs, these ghosts have both personality and agendas. They will make use of any and all influence they have have on their descendents to achieve their goals.
+This larp makes use of the “ghost”[^3] meta technique in a very literal version where the ghosts of the three dead generations have both personality and agendas. They will make use of any and all influence they have have on their descendents to achieve their goals.
 
 A single production of the larp takes about 3.5 hours, including preparation and post-larp reflections.
 
-[1]: "Larp refers to a type of interactive game or storytelling in which the players assume a role and act as a character within the set fiction. It can be described as theatre without an audience or script. What sets the Nordic larp traditions apart from others is a strong emphasis on collaboration and collective creation, unobtrusive rules, as well as a rich variety of play styles and settings sometimes including heavy themes." https://nordiclarp.org/wiki/Nordic_larp
+[1]: "Larp refers to a type of interactive game or storytelling in which the players assume a role and act as a character within the set fiction. It can be described as theatre without an audience or script. What sets the Nordic larp traditions apart from others is a strong emphasis on collaboration and collective creation, unobtrusive rules, [...] sometimes including heavy themes." https://nordiclarp.org/wiki/Nordic_larp
 
-[2]: None of the players familiar with Swedish culture? Not a problem. Approximate with generalised western culture and go with it as Swedish culture is not particularly sensitive to the problems of cultural appropriation. There is an entire section below spelling out cultural references necessary to properly interpret the character and act descriptions.
+[2]: None of the players familiar with Swedish culture? Not a problem. Approximate with generalised western culture and go with it as Swedish culture is not particularly sensitive to the problems of cultural appropriation. There is a section below spelling out cultural references necessary to properly interpret the character and act descriptions.
 
 [3]: A ghost character is a character that does not represent a real physical being. They have traditionally been used by game masters as tools to interact with the subconsciousness of the player characters. In this game, however, the ghosts represent actual dead people.
 
