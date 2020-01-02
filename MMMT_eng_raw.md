@@ -1,4 +1,4 @@
-# Granny's Great-grannys Tiara
+<h1>Granny's Great-grannys Tiara<h1>
 
 **A tale of six generations of women**
 
@@ -9,13 +9,13 @@ By Susanne Vejdemo (susanne@vejdemo.se) and Daniel Armyr (daniel@armyr.se)
 
 Quote from the original 2012 production.
 
-# About the game
+<h2>About the game</h2>
 
-Granny’s Great-granny’s Tiara is a low-key nordic larp[^1] about Swedish[^2] femininity, traditionally female concerns and the relationships between mothers and daughters. It involves six generations of women from the same family, three living and three dead, deciding on weather to sell their greatest family heirloom or not. The larp takes place in Stockholm in the year 2020.
+<p>Granny’s Great-granny’s Tiara is a low-key nordic larp[^1] about Swedish[^2] femininity, traditionally female concerns and the relationships between mothers and daughters. It involves six generations of women from the same family, three living and three dead, deciding on weather to sell their greatest family heirloom or not. The larp takes place in Stockholm in the year 2020.</p>
 
-This larp makes use of the “ghost”[^3] meta technique in a very literal version where the ghosts of the three dead generations have both personality and agendas. They will make use of any and all influence they have have on their descendents to achieve their goals.
+<p>This larp makes use of the “ghost”[^3] meta technique in a very literal version where the ghosts of the three dead generations have both personality and agendas. They will make use of any and all influence they have have on their descendents to achieve their goals.</p>
 
-A single production of the larp takes about 3.5 hours, including preparation and post-larp reflections.
+<p>A single production of the larp takes about 3.5 hours, including preparation and post-larp reflections.</p>
 
 [1]: "Larp refers to a type of interactive game or storytelling in which the players assume a role and act as a character within the set fiction. It can be described as theatre without an audience or script. What sets the Nordic larp traditions apart from others is a strong emphasis on collaboration and collective creation, unobtrusive rules, [...] sometimes including heavy themes." https://nordiclarp.org/wiki/Nordic_larp
 
@@ -23,31 +23,31 @@ A single production of the larp takes about 3.5 hours, including preparation and
 
 [3]: A ghost character is a character that does not represent a real physical being. They have traditionally been used by game masters as tools to interact with the subconsciousness of the player characters. In this game, however, the ghosts represent actual dead people.
 
-## Basic larp concepts
+<h3>Basic larp concepts</h3>
 
-If you are new to Larping, here are a few concepts and terms you need to be aware of.
+<p>If you are new to Larping, here are a few concepts and terms you need to be aware of.</p>
 
-### Character
+<h4>Character</h4>
 
-The in-story characters that you play. These are the six generations of women.
+<p>The in-story characters that you play. These are the six generations of women.</p>
 
-### Player
+<h4>Player</h4>
 
-The real-world person paying one of the characters.
+<p>The real-world person paying one of the characters.</p>
 
-### Raised fist / Cut
+<h4>Raised fist / Cut</h4>
 
-If a user raises their fist and/or calls out "CUT" you immediately stop where you are and fall silent. Either the person will continue with giving an instruction that is directed to you as a player which shall be followed, or something serious has gone wrong and the game must take a break until the serious issue has been resolved. 
+<p>If a user raises their fist and/or calls out "CUT" you immediately stop where you are and fall silent. Either the person will continue with giving an instruction that is directed to you as a player which shall be followed, or something serious has gone wrong and the game must take a break until the serious issue has been resolved.</p>
 
-Do not hesitate to call CUT if the game hast to stop for a short period to sort something out, for example an accident where a player got hurt. Safety first.
+<p>Do not hesitate to call CUT if the game hast to stop for a short period to sort something out, for example an accident where a player got hurt. Safety first.</p>
 
-### Brems
+<h4>Brems</h4>
 
-Brems is Norwegian for "break" and is used as a code word to tell another player to dial things back a bit, but otherwise continue the game. Many Nordic larps, including this one, deal with intense emotions and things can get heated. There is no shame in using the "Brems" word. Trust that your fellow players back down if tell them to, but also trust that they will tell you if you go too far. Make sure they can also trust you to do the same.
+<p>Brems is Norwegian for "break" and is used as a code word to tell another player to dial things back a bit, but otherwise continue the game. Many Nordic larps, including this one, deal with intense emotions and things can get heated. There is no shame in using the "Brems" word. Trust that your fellow players back down if tell them to, but also trust that they will tell you if you go too far. Make sure they can also trust you to do the same.</p>
 
-## Swedish cultural and geographical context
+<h3>Swedish cultural and geographical context</h3>
 
-For players unfamiliar with some of the locations or cultural contexts mentioned below, here is a quick summary of the local concepts relevant to this game. These concepts have counterparts in very many cultures, so they should be easily repleacable with your local equivalents.
+<p>For players unfamiliar with some of the locations or cultural contexts mentioned below, here is a quick summary of the local concepts relevant to this game. These concepts have counterparts in very many cultures, so they should be easily repleacable with your local equivalents.</p>
 
 ### Sweden
 
