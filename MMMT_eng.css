@@ -1,0 +1,81 @@
+@page {
+	size: 6in 9in;
+}
+
+@page :left {
+  margin-left: 0.75in;
+  margin-right: 1in;
+  margin-top: 0.75in;
+  margin-bottom: 0.75in;
+
+  @bottom-left {
+  	margin: 10pt 0 30pt 0;
+    border-top: .25pt solid #666;    
+    font-size: 9pt;
+    color: #333;    
+    content: counter(page);
+  }
+
+  @top-center {
+    content: "Granny's Great-granny's Tiara";
+    margin: 30pt 0 10pt 0;    
+    font-size: 8pt;
+  }
+}
+
+
+@page :right {
+  margin-left: 1in;
+  margin-right: 0.75in;
+  margin-top: 0.75in;
+  margin-bottom: 0.75in;
+
+  @bottom-right {
+  	margin: 10pt 0 30pt 0;
+    border-top: .25pt solid #666;    
+    font-size: 9pt;
+    color: #333;    
+    content: counter(page);
+  }
+
+  @top-center {
+    content: string(chaptertitle);
+    margin: 30pt 0 10pt 0;    
+    font-size: 8pt;
+  }
+}
+
+body {
+    font-family: serif;
+    counter-reset: chapternum;
+}
+
+
+header, h2 {
+    text-align: center;
+
+}
+
+h2 {
+	page-break-before: always;
+	string-set: chaptertitle content(); 	
+	font-weight: normal;
+}
+
+
+h3 {
+	font-weight: normal;
+}
+
+.newpage {
+	page-break-before: always;
+}
+
+h4 {
+	font-style: italic;
+	font-weight: normal;
+}
+
+.quote {
+	font-style: italic;
+}
