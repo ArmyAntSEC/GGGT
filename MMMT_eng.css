@@ -1,16 +1,20 @@
 @page {
 	size: 6in 9in;
+
+	@footnote {
+		margin-top: 10pt;		
+	}
 }
 
-@page :left {
+@page:left {
   margin-left: 0.75in;
   margin-right: 1in;
   margin-top: 0.75in;
   margin-bottom: 0.75in;
 
   @bottom-left {
-  	margin: 10pt 0 30pt 0;
-    border-top: .25pt solid #666;    
+  	margin: 10pt 0 30pt 0;    
+  	border-top: .25pt solid #666;    
     font-size: 9pt;
     color: #333;    
     content: counter(page);
@@ -24,14 +28,14 @@
 }
 
 
-@page :right {
+@page:right {
   margin-left: 1in;
   margin-right: 0.75in;
   margin-top: 0.75in;
   margin-bottom: 0.75in;
 
-  @bottom-right {
-  	margin: 10pt 0 30pt 0;
+  @bottom-right {  	
+  	margin: 10pt 0 30pt 0;    
     border-top: .25pt solid #666;    
     font-size: 9pt;
     color: #333;    
@@ -39,43 +43,110 @@
   }
 
   @top-center {
-    content: string(chaptertitle);
-    margin: 30pt 0 10pt 0;    
+    content: string(chaptertitle);    
     font-size: 8pt;
   }
 }
 
 body {
-    font-family: serif;
-    counter-reset: chapternum;
+    font-family: "GaramondNo8";    
+    margin: 0.2em;
+	text-align: justify;
+	font-size: 10pt;
+
+	counter-reset: chapternum;
 }
 
 
 header, h2 {
     text-align: center;
-
 }
 
 h2 {
-	page-break-before: always;
+	page-break-before: right;
+	page-break-after: avoid;
+	page-break-inside: avoid;
 	string-set: chaptertitle content(); 	
-	font-weight: normal;
+	font-weight: normal;	
 }
-
 
 h3 {
+	page-break-after: avoid;
+	page-break-inside: avoid;
 	font-weight: normal;
-}
-
-.newpage {
-	page-break-before: always;
+	margin-bottom: 0.2em;
+	margin-top: 1em;
 }
 
 h4 {
+	page-break-after: avoid;
+	page-break-inside: avoid;
 	font-style: italic;
 	font-weight: normal;
+	margin-top: 0.5em;
+	margin-bottom: 0.2em;
+}
+
+p {
+
+}
+
+.newpage {
+	page-break-before: right;
 }
 
 .quote {
 	font-style: italic;
+}
+
+.footnote {
+	float: footnote;
+}
+
+a {
+	color: inherit;
+	text-decoration: inherit;
+}
+
+ul.toc a::after {
+  content: leader('.') target-counter(attr(href), page);
+}
+
+ul.toc li:before {
+	content: none;
+}
+
+ul {
+	position: relative;
+	list-style: none;
+	margin-left: 0;
+	padding-left: 1.2em;
+}
+
+ul li:before {
+	content: "»";
+	position: absolute;
+	left: 0;
+	font-weight: bold;
+}
+
+.header_credit {
+	margin-top: 2in;	
+	text-align: center;
+}
+
+.header_quote {	
+	text-align: left;
+	font-style: italic;
+}
+
+ul.header_quote li:before {
+	content: "—";	
+}
+
+.header_quoteblock {
+	position: absolute;
+  	bottom: 10px;
+  	text-align: center;
+
 }
