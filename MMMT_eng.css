@@ -1,23 +1,30 @@
 @page {
 	size: 6in 9in;
-
+	font-family: "GaramondNo8";    
 	@footnote {
 		margin-top: 10pt;		
 	}
+}
+
+@page:first{
+  @bottom-right {  	
+  	content: none;
+  }	
 }
 
 @page:left {
   margin-left: 0.75in;
   margin-right: 1in;
   margin-top: 0.75in;
-  margin-bottom: 0.75in;
+  margin-bottom: 0.75in;  
 
   @bottom-left {
   	margin: 10pt 0 30pt 0;    
   	border-top: .25pt solid #666;    
     font-size: 9pt;
     color: #333;    
-    content: counter(page);
+    width: 100%;
+    content: counter(page);    
   }
 
   @top-center {
@@ -27,18 +34,18 @@
   }
 }
 
-
 @page:right {
   margin-left: 1in;
   margin-right: 0.75in;
   margin-top: 0.75in;
-  margin-bottom: 0.75in;
+  margin-bottom: 0.75in;  
 
   @bottom-right {  	
   	margin: 10pt 0 30pt 0;    
     border-top: .25pt solid #666;    
     font-size: 9pt;
     color: #333;    
+    width: 100%;
     content: counter(page);
   }
 
@@ -104,12 +111,13 @@ p {
 }
 
 a {
-	color: inherit;
-	text-decoration: inherit;
+	color: #000000;
+	text-decoration: none;
 }
 
 ul.toc a::after {
-  content: leader('.') target-counter(attr(href), page);
+	float: right;
+  	content: target-counter(attr(href), page);
 }
 
 ul.toc li:before {
