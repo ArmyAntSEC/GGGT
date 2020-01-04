@@ -7,9 +7,21 @@
 }
 
 @page:first{
-  @bottom-right {  	
+  @bottom-center {  	
   	content: none;
   }	
+}
+
+@page:nth(2) {
+	@bottom-center {  	
+  		content: none;
+  	}	
+}
+
+@page:nth(3) {
+	@bottom-center {  	
+  		content: none;
+  	}	
 }
 
 @page:left {
@@ -18,9 +30,9 @@
   margin-top: 0.75in;
   margin-bottom: 0.75in;  
 
-  @bottom-left {
+  @bottom-center {
   	margin: 10pt 0 30pt 0;    
-  	border-top: .25pt solid #666;    
+  	/*border-top: .25pt solid #666;*/
     font-size: 9pt;
     color: #333;    
     width: 100%;
@@ -40,9 +52,9 @@
   margin-top: 0.75in;
   margin-bottom: 0.75in;  
 
-  @bottom-right {  	
+  @bottom-center {  	
   	margin: 10pt 0 30pt 0;    
-    border-top: .25pt solid #666;    
+    /*border-top: .25pt solid #666;*/
     font-size: 9pt;
     color: #333;    
     width: 100%;
@@ -55,6 +67,13 @@
   }
 }
 
+@page:blank {
+  @bottom-center {  	
+    content: none;
+  }
+
+}
+
 body {
     font-family: "GaramondNo8";    
     margin: 0.2em;
@@ -65,12 +84,8 @@ body {
 }
 
 
-.header_credit {
-	margin-top: 2in;	
-	text-align: center;
-}
-
 .header_quote {	
+	margin-top: 1in;
 	text-align: left;
 	font-style: italic;
 }
@@ -81,9 +96,9 @@ ul.header_quote li:before {
 
 .bottom_block {
 	position: absolute;
+	width: 100%;
   	bottom: 10px;
   	text-align: center;
-
 }
 
 #titlepage, #colophon {
@@ -91,7 +106,22 @@ ul.header_quote li:before {
 }
 
 #colophon {
-	page-break-before: always;
+	page-break-before: left;
+}
+
+
+h1 {
+	font-size: 32pt;
+}
+header p {
+	font-size: 24pt;
+	font-style: italic;
+}
+
+#title_credit {
+	text-align: center;
+	max-width: 2.5in;
+	margin: 0 auto;
 }
 
 h2 {
