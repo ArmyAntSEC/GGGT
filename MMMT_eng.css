@@ -61,12 +61,37 @@ body {
 	text-align: justify;
 	font-size: 10pt;
 
-	counter-reset: chapternum;
+	counter-reset: chapternum;	
 }
 
 
-header, h2 {
-    text-align: center;
+.header_credit {
+	margin-top: 2in;	
+	text-align: center;
+}
+
+.header_quote {	
+	text-align: left;
+	font-style: italic;
+}
+
+ul.header_quote li:before {
+	content: "—";	
+}
+
+.bottom_block {
+	position: absolute;
+  	bottom: 10px;
+  	text-align: center;
+
+}
+
+#titlepage, #colophon {
+	text-align: center;
+}
+
+#colophon {
+	page-break-before: always;
 }
 
 h2 {
@@ -75,6 +100,7 @@ h2 {
 	page-break-inside: avoid;
 	string-set: chaptertitle content(); 	
 	font-weight: normal;	
+	text-align: center;
 }
 
 h3 {
@@ -106,10 +132,6 @@ p {
 	font-style: italic;
 }
 
-.footnote {
-	float: footnote;
-}
-
 a {
 	color: #000000;
 	text-decoration: none;
@@ -138,23 +160,5 @@ ul li:before {
 	font-weight: bold;
 }
 
-.header_credit {
-	margin-top: 2in;	
-	text-align: center;
-}
-
-.header_quote {	
-	text-align: left;
-	font-style: italic;
-}
-
-ul.header_quote li:before {
-	content: "—";	
-}
-
-.header_quoteblock {
-	position: absolute;
-  	bottom: 10px;
-  	text-align: center;
-
+.fotnote_link {
 }
