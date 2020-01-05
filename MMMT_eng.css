@@ -1,9 +1,6 @@
 @page {
-	size: 6in 9in;
+	size: 148mm 210mm;
 	font-family: "GaramondNo8";    
-	@footnote {
-		margin-top: 10pt;		
-	}
 }
 
 @page:first{
@@ -16,6 +13,9 @@
 	@bottom-center {  	
   		content: none;
   	}	
+  	@top-center {
+  		content: none;
+  	}
 }
 
 @page:nth(3) {
@@ -25,14 +25,11 @@
 }
 
 @page:left {
-  margin-left: 0.75in;
-  margin-right: 1in;
-  margin-top: 0.75in;
-  margin-bottom: 0.75in;  
-
+  margin: 20mm;  
+  margin-right: 25mm;
+  
   @bottom-center {
   	margin: 10pt 0 30pt 0;    
-  	/*border-top: .25pt solid #666;*/
     font-size: 9pt;
     color: #333;    
     width: 100%;
@@ -47,14 +44,11 @@
 }
 
 @page:right {
-  margin-left: 1in;
-  margin-right: 0.75in;
-  margin-top: 0.75in;
-  margin-bottom: 0.75in;  
+  margin: 20mm;
+  margin-left: 25mm;
 
   @bottom-center {  	
-  	margin: 10pt 0 30pt 0;    
-    /*border-top: .25pt solid #666;*/
+  	margin: 10pt 0 30pt 0;        
     font-size: 9pt;
     color: #333;    
     width: 100%;
@@ -102,14 +96,10 @@ ul.header_quote li:before {
   	text-align: center;
 }
 
-#titlepage, #colophon {
-	text-align: center;
+#coverpage, #titlepage, #colophon {
+	text-align: center;	
+	page-break-before: right;
 }
-
-#colophon {
-	page-break-before: left;
-}
-
 
 h1 {
 	font-size: 32pt;
@@ -212,4 +202,8 @@ ul li:before {
 
 sup {
 	font-size: 6pt;
+}
+
+img {
+	max-width: 100%;
 }
