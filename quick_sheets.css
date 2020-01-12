@@ -1,23 +1,26 @@
 @page {
-	size: 148mm 210mm;
+	size: 210mm 297mm;
 	font-family: "GaramondNo8";    
+	margin: 0mm;
 }
 
 body {
     font-family: "GaramondNo8";    
-    margin: 0.2em;
+    margin: 0em;
 	text-align: justify;
 	font-size: 10pt;
 
 	counter-reset: chapternum;	
 	counter-reset: footnum;
-	
-	width: 170mm;
-	height: 170mm;
+}
+
+table {
+	page-break-before: always;
 }
 
 td {
-	width: 85mm;
+	width: 93.5mm;
+	height: 130mm;
 	border: 1px solid black;
 	vertical-align: top;
 	padding: 5mm;
@@ -33,7 +36,7 @@ h2 {
 }
 
 p {
-	font-size: 9pt;
+	font-size: 8pt;
 }
 
 .actdesc {
