@@ -1,259 +1,358 @@
-@page {
-	size: 148mm 210mm;
-	font-family: "GaramondNo8";    
-}
-
-@page:first{
-  @bottom-center {  	
-  	content: none;
-  }
-  @bottom-right-corner {	
-  	content: none;
-  }
-}
-
-@page:nth(2) {
-	@top-center {  	
-  		content: none;
-  	}	  
-}
-
-
-@page:nth(3) {
-	@bottom-center {  	
-  		content: none;
-  	}	
-  @bottom-right-corner {
-  	content: none;
-  }
-}
-
-@page:nth(4) {
-	@bottom-center {  	
-  		content: none;
-  	}	
-  @bottom-left-corner {
-  	content: none;
-  }
-}
-
-@page:nth(5) {
-  @bottom-right-corner {
-  	content: none;
-  }
-}
-
-@page:nth(7) {
-  @bottom-right-corner {
-  	content: none;
-  }
-}
-
-
-@page:left {
-  margin: 20mm;  
-  margin-right: 25mm;
-  
-  @bottom-center {
-  	margin: 10pt 0 30pt 0;    
-    font-size: 9pt;
-    color: #333;    
-    width: 100%;
-    content: counter(page);    
-  }
-
-  @top-center {
-    content: "Granny's Great-Grandmother's Tiara";
-    margin: 30pt 0 10pt 0;    
-    font-size: 8pt;
-  }
-
-  @bottom-left-corner {
-  	content: element(header);
-  	transform: rotate(-90deg);
-  	margin: 10pt;
-  }
-}
-
-#margin_image {
-	position: running(header);
-	width: 100%;
-	
-}
-
-@page:right {
-  margin: 20mm;
-  margin-left: 25mm;
-
-  @bottom-center {  	
-  	margin: 10pt 0 30pt 0;        
-    font-size: 9pt;
-    color: #333;    
-    width: 100%;
-    content: counter(page);
-  }
-
-  @top-center {
-    content: string(chaptertitle);    
-    font-size: 8pt;
-  }
-
-  @bottom-right-corner {
-  	content: element(header);
-  	transform: rotate(180deg);
-  	margin: 10pt;
-  }
-
-}
-
-@page:blank {
-  @bottom-center {  	
-    content: none;
-  }
-  @bottom-left-corner {
-  	content: none;
-  }
-  @bottom-right-corner {
-  	content: none;
-  }
-}
-
-body {
-    font-family: "GaramondNo8";    
-    margin: 0.2em;
-	text-align: justify;
-	font-size: 10pt;
-
-	counter-reset: chapternum;	
-	counter-reset: footnum;
-}
-
-
-.header_quote {	
-	margin-top: 1in;
-	text-align: left;
-	font-style: italic;
-}
-
-ul.header_quote li:before {
-	content: "—";	
-}
-
-.bottom_block {
-	position: absolute;
-	width: 100%;
-  	bottom: 10px;
-  	text-align: center;
-}
-
-#coverpage, #titlepage, #colophon {
-	text-align: center;	
-	page-break-before: right;
-}
-
-h1 {
-	font-size: 32pt;
-}
-
-header p {
-	font-size: 24pt;
-	font-style: italic;
-}
-
-.title_credit {
-	text-align: center;
-	max-width: 2.5in;
-	margin: 0 auto;
-}
-
-h2 {
-	page-break-before: right;
-	page-break-after: avoid;
-	page-break-inside: avoid;
-	string-set: chaptertitle content(); 	
-	font-weight: normal;	
-	text-align: center;
-}
-
-h3 {
-	page-break-after: avoid;
-	page-break-inside: avoid;
-	font-weight: normal;
-	margin-bottom: 0.2em;
-	margin-top: 1em;
-}
-
-h4 {
-	page-break-after: avoid;
-	page-break-inside: avoid;
-	font-style: italic;
-	font-weight: normal;
-	margin-top: 0.5em;
-	margin-bottom: 0.2em;
-}
-
-h5 {
-	page-break-after: avoid;
-	page-break-inside: avoid;
-	font-style: normal;
-	font-weight: bold;
-	margin-top: 0.5em;
-	margin-bottom: 0em;
+html {
+  font-family: "GaramondNo8";
 }
 
 p {
-	margin-top: 0em;
-	margin-bottom: 0.4em;
+  text-align: justify;
 }
 
-.newpage {
-	page-break-before: right;
-}
-
-.quote {
-	font-style: italic;
-}
-
-a {
-	color: #000000;
-	text-decoration: none;
-}
-
-ul.toc a::after {
-	float: right;
-  	content: target-counter(attr(href), page);
-}
-
-ul.toc li:before {
-	content: none;
+.header_quote { 
+  margin-top: 1in;
+  text-align: left;
+  font-style: italic;
 }
 
 ul {
-	position: relative;
-	list-style: none;
-	margin-left: 0;
-	padding-left: 1.2em;
+  position: relative;
+  list-style: none;
+  margin-left: 0;
+  padding-left: 1.2em;
 }
 
 ul li:before {
-	content: "»";
-	position: absolute;
-	left: 0;
-	font-weight: bold;
+  content: "»";
+  position: absolute;
+  left: 0;
+  font-weight: bold;
 }
 
-.xref:after {
-	content: " (Page " target-counter(attr(href), page) ")";
+ul.header_quote li:before {
+  content: "—"; 
 }
 
-.footnote {
-	margin-bottom: 1em;
+ul.toc li:before {
+  content: none; 
 }
 
-sup {
-	font-size: 6pt;
+
+#coverpage, #titlepage, #colophon {
+  text-align: center; 
+  page-break-before: right;
 }
 
-img {
-	max-width: 100%;
+.quote {
+  font-style: italic;
+}
+
+
+@media screen {
+  #margin_image {
+    display: none;
+  }
+
+  body {
+    width: 30em;
+    margin-left: auto;
+    margin-right: auto;    
+    font-size: 18pt;    
+  }
+
+  p {
+    margin-top: 0em;
+    margin-bottom: 0.4em;
+    font-size: 18pt;
+  }
+
+  #titlepage {
+    display: none;
+  }
+
+  .title_credit {
+    text-align: center;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 12pt;    
+  }
+
+  header p {
+    text-align: center;  
+    font-style: italic;
+    font-size: 24pt;
+  }
+
+  img {
+    width: 25%;
+  }
+
+  h1 {
+    font-size: 36pt;
+  }
+
+  #colophon_bottom_block {
+    display: none;
+  }
+
+  a {
+    color: black;
+  }
+
+  h2 {
+    font-weight: normal;  
+    text-align: center;
+    font-size: 24pt;
+  }
+
+  h3 {
+    font-weight: normal;
+    margin-bottom: 0.2em;
+    margin-top: 1em;
+    font-size: 24pt;
+  }
+
+  h4 {
+    font-style: italic;
+    font-weight: normal;
+    margin-top: 0.5em;
+    margin-bottom: 0.2em;
+    font-size: 22pt;
+  }
+
+  h5 {
+    font-style: normal;
+    font-weight: bold;
+    margin-top: 0.5em;
+    margin-bottom: 0em;
+    font-size: 18pt;
+  }
+
+  p {
+    margin-top: 0em;
+    margin-bottom: 0.4em;
+  }
+}
+
+@media print {
+  @page {
+  	size: 148mm 210mm;
+  }
+
+  @page:first{
+    @bottom-center {  	
+    	content: none;
+    }
+    @bottom-right-corner {	
+    	content: none;
+    }
+  }
+
+  @page:nth(2) {
+  	@top-center {  	
+    		content: none;
+    	}	  
+  }
+
+
+  @page:nth(3) {
+  	@bottom-center {  	
+    		content: none;
+    	}	
+    @bottom-right-corner {
+    	content: none;
+    }
+  }
+
+  @page:nth(4) {
+  	@bottom-center {  	
+    		content: none;
+    	}	
+    @bottom-left-corner {
+    	content: none;
+    }
+  }
+
+  @page:nth(5) {
+    @bottom-right-corner {
+    	content: none;
+    }
+  }
+
+  @page:nth(7) {
+    @bottom-right-corner {
+    	content: none;
+    }
+  }
+
+
+  @page:left {
+    margin: 20mm;  
+    margin-right: 25mm;
+    
+    @bottom-center {
+    	margin: 10pt 0 30pt 0;    
+      font-size: 9pt;
+      color: #333;    
+      width: 100%;
+      content: counter(page);    
+    }
+
+    @top-center {
+      content: "Granny's Great-Grandmother's Tiara";
+      margin: 30pt 0 10pt 0;    
+      font-size: 8pt;
+    }
+
+    @bottom-left-corner {
+    	content: element(header);
+    	transform: rotate(-90deg);
+    	margin: 10pt;
+    }
+  }
+
+  #margin_image {
+  	position: running(header);
+  	width: 100%;
+  	
+  }
+
+  @page:right {
+    margin: 20mm;
+    margin-left: 25mm;
+
+    @bottom-center {  	
+    	margin: 10pt 0 30pt 0;        
+      font-size: 9pt;
+      color: #333;    
+      width: 100%;
+      content: counter(page);
+    }
+
+    @top-center {
+      content: string(chaptertitle);    
+      font-size: 8pt;
+    }
+
+    @bottom-right-corner {
+    	content: element(header);
+    	transform: rotate(180deg);
+    	margin: 10pt;
+    }
+
+  }
+
+  @page:blank {
+    @bottom-center {  	
+      content: none;
+    }
+    @bottom-left-corner {
+    	content: none;
+    }
+    @bottom-right-corner {
+    	content: none;
+    }
+  }
+
+  body {          	
+  	font-size: 10pt;
+
+  	counter-reset: chapternum;	
+  	counter-reset: footnum;
+  }
+
+  h1 {
+  	font-size: 32pt;
+  }
+
+  header p {
+  	font-size: 24pt;
+  	font-style: italic;
+  }
+
+  .title_credit {
+  	text-align: center;
+  	max-width: 2.5in;
+  	margin: 0 auto;
+  }
+
+  .bottom_block {
+    position: absolute;
+    width: 100%;
+    bottom: 10px;
+    text-align: center;
+  }
+
+  h2 {
+  	page-break-before: right;
+  	page-break-after: avoid;
+  	page-break-inside: avoid;
+  	string-set: chaptertitle content(); 	
+  	font-weight: normal;	
+  	text-align: center;
+  }
+
+  h3 {
+  	page-break-after: avoid;
+  	page-break-inside: avoid;
+  	font-weight: normal;
+  	margin-bottom: 0.2em;
+  	margin-top: 1em;
+  }
+
+  h4 {
+  	page-break-after: avoid;
+  	page-break-inside: avoid;
+  	font-style: italic;
+  	font-weight: normal;
+  	margin-top: 0.5em;
+  	margin-bottom: 0.2em;
+  }
+
+  h5 {
+  	page-break-after: avoid;
+  	page-break-inside: avoid;
+  	font-style: normal;
+  	font-weight: bold;
+  	margin-top: 0.5em;
+  	margin-bottom: 0em;
+  }
+
+  p {
+  	margin-top: 0em;
+  	margin-bottom: 0.4em;
+  }
+
+  .newpage {
+  	page-break-before: right;
+  }
+
+  a {
+  	color: #000000;
+  	text-decoration: none;
+  }
+
+  ul.toc a::after {
+  	float: right;
+    	content: target-counter(attr(href), page);
+  }
+
+  ul.toc li:before {
+  	content: none;
+  }
+
+  
+  .xref:after {
+  	content: " (Page " target-counter(attr(href), page) ")";
+  }
+
+  .footnote {
+  	margin-bottom: 1em;
+  }
+
+  sup {
+  	font-size: 6pt;
+  }
+
+  img {
+  	max-width: 100%;
+  }
 }
