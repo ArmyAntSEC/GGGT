@@ -232,14 +232,17 @@ ul.toc li:before {
     @bottom-left-corner {
     	content: element(header);
     	transform: rotate(-90deg);
-    	margin: 10pt;
+    	margin: 10pt;     
+      margin: 2em;
+      margin-right: -6em;
+      margin-top: -6em;
+ 
     }
   }
 
   #margin_image {
   	position: running(header);
-  	width: 100%;
-  	
+  	width: 100%;        
   }
 
   @page:right {
@@ -262,7 +265,9 @@ ul.toc li:before {
     @bottom-right-corner {
     	content: element(header);
     	transform: rotate(180deg);
-    	margin: 10pt;
+    	margin: 2em;
+      margin-left: -6em;
+      margin-top: -6em;
     }
 
   }
