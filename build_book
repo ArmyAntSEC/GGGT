@@ -1,0 +1,14 @@
+#!/bin/sh
+
+# Build the HTML version. Simple concatenation
+cat GGGT_01_header.raw GGGT_02_cover.raw GGGT_04_colophon.raw GGGT_05_toc.raw GGGT_06_about_the_game.raw GGGT_07_Preparation.raw GGGT_08_on_location.raw GGGT_09_acts.raw GGGT_10_characters.raw GGGT_11_background.raw GGGT_12_footer.raw > GGGT.html
+
+# Build the PDF version
+cat GGGT_01_header.raw GGGT_01_margin_image.raw GGGT_02_cover.raw GGGT_03_title.raw GGGT_04_colophon.raw GGGT_05_toc.raw GGGT_06_about_the_game.raw GGGT_07_Preparation.raw GGGT_08_on_location.raw GGGT_09_acts.raw GGGT_10_characters.raw GGGT_11_background.raw GGGT_12_footer.raw > GGGT_temp.html
+
+~/.local/bin/weasyprint GGGT_temp.html GGGT.pdf
+rm GGGT_temp.html
+
+# Build the EPUB version
+
+
