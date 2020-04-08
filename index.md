@@ -1,5 +1,5 @@
 # Great Great Grandma's Tiara
-![Tiara](https://github.com/ArmyAntSEC/GGGT/blob/master/tiara.png)
+![Tiara](https://github.com/ArmyAntSEC/GGGT/blob/master/tiara_halfsize.png)
 
 A tale of six generations of women by Susanne Vejdemo (susanne@vejdemo.se) and Daniel Armyr (daniel@armyr.se)
 
