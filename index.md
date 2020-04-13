@@ -13,6 +13,6 @@ A single production of the larp takes about 3.5 hours, including preparation and
 Quote from the original 2012 production.
 
 ## Download links
-- [Web version](https://armyantsec.github.io/MMMT/GGGT.html)
-- [Print version](https://armyantsec.github.io/MMMT/GGGT.pdf)
-- [Quick-sheets](https://armyantsec.github.io/MMMT/quick_sheets.pdf)
+- [Web version](https://armyantsec.github.io/GGGT/GGGT.html)
+- [Print version](https://armyantsec.github.io/GGGT/GGGT.pdf)
+- [Quick-sheets](https://armyantsec.github.io/GGGT/quick_sheets.pdf)
